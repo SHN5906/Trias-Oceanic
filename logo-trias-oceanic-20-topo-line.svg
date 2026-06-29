@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1340" height="250" viewBox="0 0 1340 250">
+  <text x="670" y="150" text-anchor="middle" font-family="Montserrat, sans-serif" font-weight="800" font-size="140" letter-spacing="6" fill="#0F3D2E">TRIAS OCEANIC</text>
+  <path d="M440 205 Q670 160 900 205" fill="none" stroke="#B5793F" stroke-width="3"/>
+  <path d="M500 205 Q670 172 840 205" fill="none" stroke="#B5793F" stroke-width="2.5"/>
+  <path d="M560 205 Q670 184 780 205" fill="none" stroke="#B5793F" stroke-width="2"/>
+  <line x1="670" y1="160" x2="670" y2="212" stroke="#B5793F" stroke-width="2.5" stroke-dasharray="5 5"/>
+</svg>

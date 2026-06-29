@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="Trias Oceanic">
+  <rect width="120" height="120" rx="26" fill="#0F3D2E"/>
+  <path d="M60,16 L98,38 L98,82 L60,104 L22,82 L22,38 Z" fill="#0A2A20"/>
+  <path d="M60,16 L98,38 L98,82 L60,104 L22,82 L22,38 Z" fill="none" stroke="#F1F4F3" stroke-opacity="0.18" stroke-width="1.6"/>
+  <rect x="41" y="43" width="38" height="8" rx="4" fill="#F1F4F3"/>
+  <rect x="36" y="55" width="48" height="10" rx="5" fill="#CE9356"/>
+  <rect x="41" y="69" width="38" height="8" rx="4" fill="#E2E7E4"/>
+</svg>

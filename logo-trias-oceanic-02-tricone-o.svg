@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1310" height="250" viewBox="0 0 1310 250">
+  <text x="60" y="175" text-anchor="start" font-family="Montserrat, sans-serif" font-weight="800" font-size="140" letter-spacing="5" fill="#0F3D2E">TRIAS</text>
+  <g transform="translate(546,75)">
+    <circle cx="54" cy="50" r="42" fill="none" stroke="#0F3D2E" stroke-width="12"/>
+    <circle cx="54" cy="30" r="12" fill="#B5793F"/>
+    <circle cx="37" cy="60" r="12" fill="#B5793F"/>
+    <circle cx="71" cy="60" r="12" fill="#B5793F"/>
+    <circle cx="54" cy="50" r="6" fill="#0F3D2E"/>
+  </g>
+  <text x="668" y="175" text-anchor="start" font-family="Montserrat, sans-serif" font-weight="800" font-size="140" letter-spacing="5" fill="#0F3D2E">CEANIC</text>
+</svg>

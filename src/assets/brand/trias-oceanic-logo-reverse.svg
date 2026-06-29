@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 130" width="470" height="130" font-family="'Montserrat','Helvetica Neue',Arial,sans-serif">
+  <!-- Reverse (deep-green band / footer): crystal drawn in faint light lines -->
+  <g transform="translate(12,15)">
+    <path d="M50,6 L88,28 L88,72 L50,94 L12,72 L12,28 Z" fill="#0A2A20"/>
+    <path d="M50,6 L88,28 L88,72 L50,94 L12,72 L12,28 Z" fill="none" stroke="#F1F4F3" stroke-opacity="0.16" stroke-width="1.4"/>
+    <path d="M50,6 L50,94" stroke="#F1F4F3" stroke-opacity="0.14" stroke-width="1.2"/>
+    <rect x="31" y="33" width="38" height="8" rx="4" fill="#F1F4F3"/>
+    <rect x="26" y="45" width="48" height="10" rx="5" fill="#CE9356"/>
+    <rect x="31" y="59" width="38" height="8" rx="4" fill="#E2E7E4"/>
+  </g>
+  <text x="120" y="73" font-size="46" font-weight="800" letter-spacing="0.5" fill="#F1F4F3">TRIAS</text>
+  <text x="119" y="99" font-size="17.5" font-weight="600" letter-spacing="7.5" fill="#CE9356">OCEANIC</text>
+  <text x="120" y="119" font-size="9.5" font-weight="600" letter-spacing="2.6" fill="#F1F4F3" fill-opacity="0.55">RIGS  ·  FLUIDS  ·  FIRE</text>
+</svg>

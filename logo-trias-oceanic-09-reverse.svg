@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="250" viewBox="0 0 1300 250">
+  <rect x="0" y="0" width="1300" height="250" rx="24" fill="#0F3D2E"/>
+  <text x="305" y="175" text-anchor="end" font-family="Montserrat, sans-serif" font-weight="800" font-size="140" letter-spacing="5" fill="#FFFFFF">TRI</text>
+  <g transform="translate(315,75)">
+    <line x1="11" y1="100" x2="47" y2="9" stroke="#FFFFFF" stroke-width="11" stroke-linecap="round"/>
+    <line x1="83" y1="100" x2="47" y2="9" stroke="#FFFFFF" stroke-width="11" stroke-linecap="round"/>
+    <line x1="27" y1="63" x2="67" y2="63" stroke="#FFFFFF" stroke-width="11" stroke-linecap="round"/>
+    <line x1="17" y1="95" x2="58" y2="67" stroke="#FFFFFF" stroke-width="3.5"/>
+    <line x1="77" y1="95" x2="36" y2="67" stroke="#FFFFFF" stroke-width="3.5"/>
+    <rect x="37" y="0" width="20" height="11" rx="1.5" fill="#CE9356"/>
+  </g>
+  <text x="421" y="175" text-anchor="start" font-family="Montserrat, sans-serif" font-weight="800" font-size="140" letter-spacing="5" fill="#FFFFFF">S</text>
+  <g transform="translate(531,75)">
+    <circle cx="54" cy="50" r="42" fill="none" stroke="#FFFFFF" stroke-width="12"/>
+    <circle cx="54" cy="30" r="12" fill="#CE9356"/>
+    <circle cx="37" cy="60" r="12" fill="#CE9356"/>
+    <circle cx="71" cy="60" r="12" fill="#CE9356"/>
+    <circle cx="54" cy="50" r="6" fill="#FFFFFF"/>
+  </g>
+  <text x="651" y="175" text-anchor="start" font-family="Montserrat, sans-serif" font-weight="800" font-size="140" letter-spacing="5" fill="#FFFFFF">CEANIC</text>
+</svg>
