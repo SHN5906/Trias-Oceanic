@@ -12,6 +12,7 @@ dist/
 # Tooling / local
 .playwright-mcp/
 .claude/
+.impeccable/
 
 # OS
 .DS_Store
