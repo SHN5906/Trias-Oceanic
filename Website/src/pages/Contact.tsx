@@ -20,7 +20,7 @@ export default function Contact() {
             <div className="cpage-intro anim d2">
               <p className="eyebrow">Contact</p>
               <h1 className="display">
-                Let's work <span className="cu">together.</span>
+                Let's work <span className="cu">together</span>
               </h1>
               <p className="lead">
                 Tell us the scope, site location and timeline, and we'll get the right equipment to

@@ -1,0 +1,3104 @@
+[
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Impregnated diamond bit",
+  "group": "Drill Bits & Reaming Shells",
+  "name": "K Series Diamond Drill Bits",
+  "description": "K series matrix manufacturing is the pressing and sintering process at the same time, the matrix is encrusted with diamond, to achieve the matrix and steel body consolidation.",
+  "specs": [
+   "Working layer height: C9 C12 C15",
+   "Manufacturing Process: hot pressing sintering method",
+   "Classification: Normal",
+   "Bit top surface: Tine Toothed",
+   "Quantity of waterway: A caliber 4 B caliber 6 N caliber 8 H caliber 10 P caliber 12"
+  ],
+  "image": "jsexplo/k-series-diamond-drill-bits.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/61.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Impregnated diamond bit",
+  "group": "Drill Bits & Reaming Shells",
+  "name": "X series diamond drill bits",
+  "description": "By simultaneous pressing and sintering processes, matrix embedded with diamond, then the matrix and steel body of X series be solidified. Use J series impregnated diamond drill bits for particularly hard formations, J9 and J11 matrix types are available.",
+  "specs": [
+   "Working layer height: C10 C13 C16",
+   "Manufacturing Process: hot pressing sintering method",
+   "Standard: Normal Matrix",
+   "A, B caliber: × 11",
+   "Bit top surface: Tine Toothed"
+  ],
+  "image": "jsexplo/x-series-diamond-drill-bits.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/62.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Impregnated diamond bit",
+  "group": "Drill Bits & Reaming Shells",
+  "name": "S Series Diamond Drill Bits",
+  "description": "The manufacturing process of the S series matrix bits does not need pressure during the sintering process, The matrix is infiltrated with molten impregnated metal and embedded with diamond, achieving the solidification of the matrix and steel. S series MatrixMatrixS9S11Working layer heightC16C25Manufacturing ProcessFree Pressure Impregnation Method S series diamond drill bitsStandardNormal MatrixB caliberS11N, H caliberS9S11P caliberS9Bit top surfaceTine ToothedAuxiliary waterway optionsS11Quantity of waterwayB caliber 6 N caliber 8 H caliber 10 P caliber 12 Chose S series impregnated diamond drill bits for deep hole hard rock, S9 and S11 matrix are available.",
+  "specs": [
+   "Manufacturing Process: Free Pressure Impregnation Method",
+   "Standard: Normal Matrix",
+   "B caliber: S11",
+   "P caliber: S9",
+   "Bit top surface: Tine Toothed"
+  ],
+  "image": "jsexplo/s-series-diamond-drill-bits.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/63.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Impregnated drill bits",
+  "group": "Drill Bits & Reaming Shells",
+  "name": "Table-Inlaid Impregnated Drill Bits",
+  "description": "Production process of impregnated drill bits Table-inlaid diamond bits are suitable for medium hard rock formations.",
+  "specs": [],
+  "image": "jsexplo/table-inlaid-impregnated-drill-bits.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/64.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Alloy drill bit",
+  "group": "Drill Bits & Reaming Shells",
+  "name": "Alloy drill bit",
+  "description": "TC drill bits are used for drilling in sedimentary rock formations below grade 4.",
+  "specs": [],
+  "image": "jsexplo/alloy-drill-bit.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/65.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "PDC bit",
+  "group": "Drill Bits & Reaming Shells",
+  "name": "PDC bit",
+  "description": "Polycrystalline diamond compact bit for geological exploration drilling.",
+  "specs": [],
+  "image": "jsexplo/pdc-bit.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/66.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Reaming Shell",
+  "group": "Drill Bits & Reaming Shells",
+  "name": "Reaming Shell",
+  "description": "Series C Reamer.",
+  "specs": [],
+  "image": "jsexplo/reaming-shell.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/8.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Wireline Drill Rod",
+  "group": "Drill Rods & Casing",
+  "name": "Direct-connected wireline coring drill stem",
+  "description": "C series rope drill pipe.",
+  "specs": [
+   "RC-AC-3000: 14.1",
+   "RC-BC-3000: 18.1",
+   "RC-NC-3000: 24.2",
+   "RC-HC-3000: 34.6",
+   "RC-PC-3000: 49.6"
+  ],
+  "image": "jsexplo/direct-connected-wireline-coring-drill-stem.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/14.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Wireline Drill Rod",
+  "group": "Drill Rods & Casing",
+  "name": "Coupling Type Wireline Drill Rod",
+  "description": "JS series rope drill pipe.",
+  "specs": [
+   "RC-CHD98-4500: 58.9",
+   "RC-CHD127-4500: 81.4"
+  ],
+  "image": "jsexplo/coupling-type-wireline-drill-rod.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/13.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Conventional Drill Rods",
+  "group": "Drill Rods & Casing",
+  "name": "Conventional Direct-Connection Drill Rod",
+  "description": "WJ series ordinary drill pipe.",
+  "specs": [
+   "RG-AWJ-3000: 14.1",
+   "RG-BWJ-3000: 21.3",
+   "RG-NWJ-3000: 27.1"
+  ],
+  "image": "jsexplo/conventional-direct-connection-drill-rod.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/12.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Conventional Drill Rods",
+  "group": "Drill Rods & Casing",
+  "name": "Coupling Type Conventional Drill Rod",
+  "description": "W series ordinary drill pipe.",
+  "specs": [
+   "RG-AW-3000: 14.1",
+   "RG-BW-3000: 21.3",
+   "RG-NW-3000: 27.1",
+   "RG-NWY-3000: 24.4",
+   "RG-CR33-3000: 10.8"
+  ],
+  "image": "jsexplo/coupling-type-conventional-drill-rod.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/11.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Specific-Purpose Drill Rod",
+  "group": "Drill Rods & Casing",
+  "name": "Specific-Purpose Drill Rod",
+  "description": "Drill rods for special purpose drilling programmes.",
+  "specs": [],
+  "image": "jsexplo/specific-purpose-drill-rod.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/92.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Scientific Drilling Rod",
+  "group": "Drill Rods & Casing",
+  "name": "Scientific Drilling Rod",
+  "description": "Scientific drilling is drilling performed for the purpose of geological research to obtain core samples or to detect pattems of geological changes.",
+  "specs": [],
+  "image": "jsexplo/scientific-drilling-rod.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/93.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Geological Casing",
+  "group": "Drill Rods & Casing",
+  "name": "Direct-Connection Casing",
+  "description": "W Series Casing.",
+  "specs": [
+   "CAS-BW-3000: 30.6",
+   "CAS-NW-3000: 36.8",
+   "CAS-HW-3000: 50.7",
+   "CAS-PW-3000: 62.2",
+   "AS-SW-3000: 94.5"
+  ],
+  "image": "jsexplo/direct-connection-casing.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/10.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Geological Casing",
+  "group": "Drill Rods & Casing",
+  "name": "Joint Casing",
+  "description": "C Series Coupling Sleeve.",
+  "specs": [],
+  "image": "jsexplo/joint-casing.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/9.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Wireline Core Barrel",
+  "group": "Core Barrels",
+  "name": "Universal Standard Core Barrel",
+  "description": "Core barrel built to universal standard dimensions.",
+  "specs": [],
+  "image": "jsexplo/universal-standard-core-barrel.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/51.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Wireline Core Barrel",
+  "group": "Core Barrels",
+  "name": "JINSHI Drilltech Standard Core Barrel",
+  "description": "JINSHI Drilltech Dtandard Core Barrel.",
+  "specs": [],
+  "image": "jsexplo/jinshi-drilltech-standard-core-barrel.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/50.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Specific-Purpose Core Barrel",
+  "group": "Core Barrels",
+  "name": "Classification of Specific-Purpose Core Barrel",
+  "description": "Specific-purpose core barrel are customized products, and the total solution is applied to drilling construction under special geological conditions.Products: Full-Hole Core Barrel, Asymmetric Core Barrel, Large-diameter Core Barrel for oil and gas wells.Full-Hole Core Barrel Features: Flat structure and spiral structure.Main function: Reduce the clearance between core barrel and hole wall, reduce the judder of core barrel, and prevent the drilling hole from skewing.Caliber Specification:N, H, P Asymmetric Core Barrel Characteristics: The geometric center of core barrel is not in the same axis as the center of rotation. Main function: Used at the bottom of the drill rod column to correct the drilling trajectory.Caliber Specification:N, H, P Large-diameter core barrel for oil and gas wells Features: Selection of core barrel is based on the internal diameter of the drill rod.Main function: Matching with API standard oil drill rod, adapting to oil and gas wells wireline core drilling.Caliber specifications: ST216/49, ST216/63.",
+  "specs": [],
+  "image": "jsexplo/classification-of-specific-purpose-core-barrel.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/47.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Scientific Core Barrel",
+  "group": "Core Barrels",
+  "name": "Scientific Core Barrel",
+  "description": "Scientific drilling is carried out for the purpose of geological research to obtain core samples or to detect patterns of geological change.Products:KS series, CS series.",
+  "specs": [],
+  "image": "jsexplo/scientific-core-barrel.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/46.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Diesel driven fully hydraulic core drilling rig",
+  "group": "Hydraulic Drill Rigs",
+  "name": "YN-800 Drill Rig Technical Performance",
+  "description": "YN-800 hydraulic drill rig, chuck type power head, high strength rods to meet the requirements of large lifting force lifting and large pressure drilling.",
+  "specs": [
+   "N: 800",
+   "H: 500",
+   "Torque (N · m): 0-1200",
+   "Maximum Torgue (N · m): 1560",
+   "Reel capacity (m): 800"
+  ],
+  "image": "jsexplo/yn-800-drill-rig-technical-performance.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/16.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Diesel driven fully hydraulic core drilling rig",
+  "group": "Hydraulic Drill Rigs",
+  "name": "YN-1000 Drill Rig Technical Performance",
+  "description": "YN-1000 hydraulic drill rig is fully hydraulic driven, realizing the integration of machine, electricity and liquid, with high efficiency and low energy consumption of the hydraulic system, which can provide reliable and stable drilling parameters.",
+  "specs": [
+   "H: 700",
+   "P: 500",
+   "Gear 2: 20-1060",
+   "Gear 2: 1845-740",
+   "Maximum Torgue: 4590"
+  ],
+  "image": "jsexplo/yn-1000-drill-rig-technical-performance.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/89.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Diesel driven fully hydraulic core drilling rig",
+  "group": "Hydraulic Drill Rigs",
+  "name": "YN-1500 Drill Rig Technical Performance",
+  "description": "YN-1500 hydraulic drill rig power source is more powerful, optimized heat dissipation system, the operation space has a good human-machine interaction experience.",
+  "specs": [
+   "H: 1000",
+   "P: 700",
+   "Gear 2: 20-1000",
+   "Gear 2: 2060-970",
+   "Maximum Torgue: 5110"
+  ],
+  "image": "jsexplo/yn-1500-drill-rig-technical-performance.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/68.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Diesel driven fully hydraulic core drilling rig",
+  "group": "Hydraulic Drill Rigs",
+  "name": "YN-1800 Drill Rig Technical Performance",
+  "description": "All the functions of YN-1800 drill rig are driven by hydraulics, which has more power, and it chooses BW320 mud pump, which is more suitable for the drilling construction of special process and special environment in special stratum.",
+  "specs": [
+   "H: 1200",
+   "P: 800",
+   "Gear 2: 20-950",
+   "Gear 2: 2160-1020",
+   "Maximum Torgue: 5370"
+  ],
+  "image": "jsexplo/yn-1800-drill-rig-technical-performance.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/90.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Diesel driven fully hydraulic core drilling rig",
+  "group": "Hydraulic Drill Rigs",
+  "name": "YN-2500 Drill Rig Technical Performance",
+  "description": "YN-2500 hydraulic drill rig is a high-performance deep hole drill rig. It realizes the integration of machine, electricity and liquid.",
+  "specs": [
+   "H: 1600",
+   "P: 1200",
+   "Gear 2: 20-560",
+   "Gear 3: 20-850",
+   "Gear 2: 4215-2420"
+  ],
+  "image": "jsexplo/yn-2500-drill-rig-technical-performance.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/69.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Motor-driven full hydraulic core drilling rig",
+  "group": "Hydraulic Drill Rigs",
+  "name": "YN-2500D type drilling rig",
+  "description": "The YN-2500D type surface full hydraulic core drilling rig is driven by dual motors, and the floor chassis is safe and reliable. It realizes the integration of machine, electricity and liquid, and has the characteristics of low energy consumption, low noise and low cost.",
+  "specs": [
+   "H: 1600",
+   "P: 1200",
+   "Second gear: 20-600",
+   "Third gear: 20-850",
+   "Second gear: 3720-1950"
+  ],
+  "image": "jsexplo/yn-2500d-type-drilling-rig.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/67.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Motor-driven full hydraulic core drilling rig",
+  "group": "Hydraulic Drill Rigs",
+  "name": "YN-1500DL Drill Rig",
+  "description": "YN-1500DL drill rig is a dual motor drive mode, featuring low energy consumption, low noise and low cost. Optimized heat dissipation system with good man-machine interaction experience operation space.",
+  "specs": [
+   "H: 1000",
+   "P: 700",
+   "Gear 2: 20-1000",
+   "Gear 2: 2060-970",
+   "Maximum Torgue: 5110"
+  ],
+  "image": "jsexplo/yn-1500dl-drill-rig.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/17.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Motor-driven full hydraulic core drilling rig",
+  "group": "Hydraulic Drill Rigs",
+  "name": "YH-2500D type drilling rig",
+  "description": "The YH-2500D type surface full hydraulic core drilling rig is driven by dual motors, and the floor chassis is safe and reliable. It realizes the integration of machine, electricity and liquid, and has the characteristics of low energy consumption, low noise and low cost.",
+  "specs": [
+   "H: 2500",
+   "P: 1800",
+   "Second gear: 15-560",
+   "Third gear: 20-840",
+   "Second gear: 4420-2400"
+  ],
+  "image": "jsexplo/yh-2500d-type-drilling-rig.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/95.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Flushing fluid circulation system",
+  "group": "Accessory Tools",
+  "name": "Faucet",
+  "description": "The faucet is installed at the upper end of the drill string and connected to the mud pump through a high-pressure hose. It is a conversion equipment that sends the flushing fluid discharged from the mud pump into the drill string and enters the borehole to realize the flushing fluid circulation.",
+  "specs": [],
+  "image": "jsexplo/faucet.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/18.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Flushing fluid circulation system",
+  "group": "Accessory Tools",
+  "name": "Rope feeder",
+  "description": "During horizontal hole drilling, it is necessary to use the rope feeder to assist in sending the salvage device into the bottom of the hole to complete the core salvage. When in use, the lower joint assembly shall be matched with the drill pipe standard.",
+  "specs": [],
+  "image": "jsexplo/rope-feeder.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/82.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Flushing fluid circulation system",
+  "group": "Accessory Tools",
+  "name": "High pressure hose",
+  "description": "The high-pressure hose is connected to the faucet and the mud pump, and the high-pressure flushing fluid provided by the mud pump is delivered to the borehole through the faucet. The inner diameter of high-pressure rubber hose has two specifications of Φ25mm and Φ38mm, and other specifications can also be customized.",
+  "specs": [],
+  "image": "jsexplo/high-pressure-hose.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/81.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Flushing fluid circulation system",
+  "group": "Accessory Tools",
+  "name": "Suction Pipe & Suction Faucet",
+  "description": "Suction Pipe &amp; Suction Faucet.",
+  "specs": [],
+  "image": "jsexplo/suction-pipe-and-suction-faucet.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/94.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Flushing fluid circulation system",
+  "group": "Accessory Tools",
+  "name": "Mixing barrel",
+  "description": "The stirring barrel is mainly used for stirring and mixing the flushing liquid to prevent the deposition of solid particles of the flushing liquid.",
+  "specs": [],
+  "image": "jsexplo/mixing-barrel.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/44.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Rope winch",
+  "group": "Accessory Tools",
+  "name": "Electric rope winch",
+  "description": "Electric winch for wireline core retrieval.",
+  "specs": [],
+  "image": "jsexplo/electric-rope-winch.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/26.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Rope winch",
+  "group": "Accessory Tools",
+  "name": "Hydraulic rope winch",
+  "description": "Hydraulically driven winch for wireline core retrieval.",
+  "specs": [],
+  "image": "jsexplo/hydraulic-rope-winch.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/80.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Rope winch",
+  "group": "Accessory Tools",
+  "name": "Wire rope",
+  "description": "Wire rope for wireline coring winches.",
+  "specs": [],
+  "image": "jsexplo/wire-rope.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/79.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Gripper",
+  "group": "Accessory Tools",
+  "name": "Trojan horse gripper",
+  "description": "Gripper for clamping the drill string during tripping.",
+  "specs": [],
+  "image": "jsexplo/trojan-horse-gripper.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/78.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Gripper",
+  "group": "Accessory Tools",
+  "name": "Hydraulic gripper",
+  "description": "The hydraulic gripper needs to be connected to the drilling rig through a high-pressure oil pipe, and the drilling rig generally provides hydraulic power. Hydraulic gripper standard TK-89, XD40.",
+  "specs": [],
+  "image": "jsexplo/hydraulic-gripper.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/77.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Gripper",
+  "group": "Accessory Tools",
+  "name": "Self-weight gripper",
+  "description": "The self-weight gripper relies on the self-weight of the drill rod to grip the drill string, which is more suitable for deep hole drilling. The self-weight gripper standard has JSZ-114 and JSZ-146.",
+  "specs": [],
+  "image": "jsexplo/self-weight-gripper.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/76.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Gripper",
+  "group": "Accessory Tools",
+  "name": "Pneumatic gripper",
+  "description": "The pneumatic gripper relies on compressed air to clamp the drill string pneumatically and is suitable for deep holes.",
+  "specs": [],
+  "image": "jsexplo/pneumatic-gripper.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/43.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Hydraulic pipe pulling machine",
+  "group": "Accessory Tools",
+  "name": "Hydraulic pipe pulling machine",
+  "description": "The hydraulic pipe drawing machine is used to deal with the sticking accident and pull out the casing, and is composed of the hydraulic pipe drawing machine body and the power source. Equipped with various specifications of drilling casing slips.",
+  "specs": [],
+  "image": "jsexplo/hydraulic-pipe-pulling-machine.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/42.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Lifter",
+  "group": "Accessory Tools",
+  "name": "Hand rubbing type (T type) lifter",
+  "description": "The hand-rubbed (T-type) lifter is directly connected with the drill pipe through the lower joint, and the selection standard of the lower joint shall be consistent with the drill pipe standard.",
+  "specs": [],
+  "image": "jsexplo/hand-rubbing-type-t-type-lifter.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/41.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Lifter",
+  "group": "Accessory Tools",
+  "name": "Open type (K type) lifter",
+  "description": "Open type (K type) lifter needs to be used with mushroom head. One end of the mushroom head is connected with the lifter through the clamping slot, and the other end is connected with the lifting drill pipe thread.",
+  "specs": [],
+  "image": "jsexplo/open-type-k-type-lifter.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/40.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Traveling block",
+  "group": "Accessory Tools",
+  "name": "Traveling block",
+  "description": "The traveling pulley is used with the drilling tower, and there are two types of single and double wheels.",
+  "specs": [],
+  "image": "jsexplo/traveling-block.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/39.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Engineering Survey Tools",
+  "group": "Accessory Tools",
+  "name": "Engineering Survey Tools",
+  "description": "Engineering survey tools mainly include standard penetration device and soil sampler.",
+  "specs": [],
+  "image": "jsexplo/engineering-survey-tools.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/27.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Unscrewing tool",
+  "group": "Accessory Tools",
+  "name": "Free pliers",
+  "description": "Free tongs are special tools for unscrewing drill pipes, drilling tools and casings.",
+  "specs": [],
+  "image": "jsexplo/free-pliers.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/28.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Unscrewing tool",
+  "group": "Accessory Tools",
+  "name": "Pipe wrench",
+  "description": "Pipe wrench for drill rod handling.",
+  "specs": [],
+  "image": "jsexplo/pipe-wrench.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/75.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Unscrewing tool",
+  "group": "Accessory Tools",
+  "name": "Hydraulic power tong",
+  "description": "Hydraulic power tong for making and breaking rod joints.",
+  "specs": [],
+  "image": "jsexplo/hydraulic-power-tong.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/74.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Unscrewing tool",
+  "group": "Accessory Tools",
+  "name": "Pulling fork, pad fork",
+  "description": "The fork and pad fork are special tools for lifting and unloading drill pipes. The main standards are 33, 43, 50, 54, 57, 65, 75, 75ZS.",
+  "specs": [],
+  "image": "jsexplo/pulling-fork-pad-fork.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/73.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Accident handling tools",
+  "group": "Accessory Tools",
+  "name": "Tap",
+  "description": "Tap can be used to salvage various specifications of rope drill pipe.",
+  "specs": [],
+  "image": "jsexplo/tap.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/29.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Accident handling tools",
+  "group": "Accessory Tools",
+  "name": "Refundable salvage spear",
+  "description": "Returnable fishing spear is a special tool used for fishing rope coring drill rod and casing. When the fishing does not move, the fishing spear can be reversed to disconnect the slip from the drill casing and exit the fishing.",
+  "specs": [],
+  "image": "jsexplo/refundable-salvage-spear.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/72.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Accident handling tools",
+  "group": "Accessory Tools",
+  "name": "Magnetic salvage",
+  "description": "The magnetic salvage device is a special tool used to salvage small metal objects in the hole. Use its own magnetism to magnetize and absorb small metal objects such as tools falling into the hole to purify the bottom of the hole.",
+  "specs": [],
+  "image": "jsexplo/magnetic-salvage.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/71.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Accident handling tools",
+  "group": "Accessory Tools",
+  "name": "Hydraulic pipe cutter",
+  "description": "The hydraulic pipe cutter is a tool for cutting rope drill pipe, casing and core pipe, which can be cut anywhere in the drill string. When in use, the pipe cutter is connected to the drill pipe of the small first-class specification through the adapter.",
+  "specs": [],
+  "image": "jsexplo/hydraulic-pipe-cutter.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/70.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Adapter",
+  "group": "Accessory Tools",
+  "name": "Adapter",
+  "description": "Goldstone Drilling produces various adapters.",
+  "specs": [],
+  "image": "jsexplo/adapter.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/30.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Sleeve Splint",
+  "group": "Accessory Tools",
+  "name": "Sleeve Splint",
+  "description": "Casing splint is a special tool for fixing and lifting casing.",
+  "specs": [],
+  "image": "jsexplo/sleeve-splint.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/31.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Consumable Materials",
+  "group": "Accessory Tools",
+  "name": "Core box",
+  "description": "Plastic core box, with cover and without cover two kinds.",
+  "specs": [],
+  "image": "jsexplo/core-box.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/37.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Consumable Materials",
+  "group": "Accessory Tools",
+  "name": "Drill pipe protection powder, lubricating paste",
+  "description": "Drill pipe protection powder, good quality, is a necessary lubricant and sealant for drilling tools and drill pipe threads, with anti-wear, drag reduction and high temperature resistance. The plastic barrel is sealed in standard packaging for convenient transportation.",
+  "specs": [],
+  "image": "jsexplo/drill-pipe-protection-powder-lubricating-paste.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/38.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Diamond drill bit & reamer",
+  "group": "C Series Coring",
+  "name": "Diamond drill bit",
+  "description": "Standards and parameters of C series drill bits.",
+  "specs": [],
+  "image": "jsexplo/diamond-drill-bit.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/20.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Diamond drill bit & reamer",
+  "group": "C Series Coring",
+  "name": "Reamer",
+  "description": "Reamer for maintaining borehole diameter.",
+  "specs": [],
+  "image": "jsexplo/reamer.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/53.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Diamond drill bit & reamer",
+  "group": "C Series Coring",
+  "name": "Drilling Casing Shoe Bits",
+  "description": "Casing shoe bits for advancing casing to depth.",
+  "specs": [],
+  "image": "jsexplo/drilling-casing-shoe-bits.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/54.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Wireline coring drill stem",
+  "group": "C Series Coring",
+  "name": "C series rope drill pipe",
+  "description": "Standard and parameter of C series rope drill pipe.",
+  "specs": [],
+  "image": "jsexplo/c-series-rope-drill-pipe.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/21.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Wireline coring drill stem",
+  "group": "C Series Coring",
+  "name": "CR series rope drill pipe",
+  "description": "CR series wireline drill pipe.",
+  "specs": [],
+  "image": "jsexplo/cr-series-rope-drill-pipe.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/55.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Wireline coring drill stem",
+  "group": "C Series Coring",
+  "name": "Rope drill pipe packaging",
+  "description": "Bundled packaging for wireline drill pipe shipments.",
+  "specs": [],
+  "image": "jsexplo/rope-drill-pipe-packaging.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/1299418864763617280.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Geological casing",
+  "group": "C Series Coring",
+  "name": "W Series Casing",
+  "description": "W Series Casing Standards and Parameters.",
+  "specs": [
+   "CAS-BW-3000: 30.6",
+   "AS-NW-3000: 36.8",
+   "CAS-HM-3000: 50.7",
+   "CAS-PW-3000: 62.2",
+   "AS-SW-3000: 94.5"
+  ],
+  "image": "jsexplo/w-series-casing.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/25.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Geological casing",
+  "group": "C Series Coring",
+  "name": "WT series casing",
+  "description": "WT series geological casing.",
+  "specs": [],
+  "image": "jsexplo/wt-series-casing.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/56.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Wireline coring tool",
+  "group": "C Series Coring",
+  "name": "C series rope core drilling tool",
+  "description": "Structure Details of Wire Rope Coring Drilling Tools.",
+  "specs": [
+   "SZJ-BC-3000: 38.31",
+   "SZJ-NC-3000: 60. 44",
+   "SZJ-HC-3000: 94.34",
+   "SZJ-PC-3000: 126.65",
+   "SZJ-SC-3000: 185.85"
+  ],
+  "image": "jsexplo/c-series-rope-core-drilling-tool.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/22.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Wireline coring tool",
+  "group": "C Series Coring",
+  "name": "C2 wireline coring tool",
+  "description": "Wireline coring tool set, C2 configuration.",
+  "specs": [],
+  "image": "jsexplo/c2-wireline-coring-tool.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/57.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Wireline coring tool",
+  "group": "C Series Coring",
+  "name": "C3 wireline coring tool",
+  "description": "Wireline coring tool set, C3 configuration.",
+  "specs": [],
+  "image": "jsexplo/c3-wireline-coring-tool.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/87.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Wireline coring tool",
+  "group": "C Series Coring",
+  "name": "CU wireline coring tool",
+  "description": "Wireline coring tool set, CU configuration.",
+  "specs": [],
+  "image": "jsexplo/cu-wireline-coring-tool.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/88.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Sliver",
+  "group": "C Series Coring",
+  "name": "Series C overshot",
+  "description": "Overshot for C series wireline core barrels.",
+  "specs": [],
+  "image": "jsexplo/series-c-overshot.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/58.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Sliver",
+  "group": "C Series Coring",
+  "name": "CU series overshot",
+  "description": "Overshot for CU series wireline coring tools.",
+  "specs": [],
+  "image": "jsexplo/cu-series-overshot.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/59.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Y series full hydraulic core drilling rig",
+  "group": "C Series Coring",
+  "name": "YN- 1000 drilling rig",
+  "description": "The YN-1000 crawler surface full hydraulic core drilling rig realizes the integration of machine, electricity and liquid, and the hydraulic system has high efficiency and low energy consumption, which can provide reliable and stable drilling parameters.",
+  "specs": [
+   "Project: Parameter Performance",
+   "Drilling depth (N caliber): 1000m",
+   "Applicable drill pipe caliber: N, H, P",
+   "Maximum through hole diameter: 118mm",
+   "Rated torque of power head: 3530N·m"
+  ],
+  "image": "jsexplo/yn-1000-drilling-rig.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/23.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Y series full hydraulic core drilling rig",
+  "group": "C Series Coring",
+  "name": "YN-1500 type drilling rig",
+  "description": "The YN-1500 crawler surface full hydraulic core drilling rig is upgraded on the basis of the YN-1000 drilling rig. A more powerful power source is configured, the cooling system is optimized, and the operating space has a better human-computer interaction experience.",
+  "specs": [
+   "Project: Parameter Performance",
+   "Drilling depth (N caliber): 1500m",
+   "Applicable drill pipe caliber: N.H.P",
+   "Maximum through hole diameter: 118mm",
+   "Rated torque of power head: 3930N·m"
+  ],
+  "image": "jsexplo/yn-1500-type-drilling-rig.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/91.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Y series full hydraulic core drilling rig",
+  "group": "C Series Coring",
+  "name": "MOBILE TRANSPORT",
+  "description": "The rig has reasonable dimensions, convenient hoisting, and can be transported in containers.",
+  "specs": [],
+  "image": "jsexplo/mobile-transport.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/60.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Accessory Tools and Equipment",
+  "group": "C Series Coring",
+  "name": "Lifting and Unloading Tool",
+  "description": "Type and standard of lifting, screwing and unloading tool.",
+  "specs": [
+   "Type: Standard",
+   "Faucet: JS5K, JS25K",
+   "Hand rubbing lifter: TYNC, TYHC",
+   "drill pipe free tong: ZYQ-B56A, ZYQ-N71A, ZYQ-H89A, ZYQ-P114A, ZYQ-140",
+   "inner tube free clamp: ZYQ-B4I/43, ZYQ-B47, ZYQ-N53/56, ZYQ-H71/73, ZYQ-P95"
+  ],
+  "image": "jsexplo/lifting-and-unloading-tool.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/24.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Accessory Tools and Equipment",
+  "group": "C Series Coring",
+  "name": "Accident handling tools",
+  "description": "Tools for recovering stuck and lost drill string components.",
+  "specs": [
+   "Type: Standard",
+   "Tap: GSZ-B, GSZ-N, GSZ-H, GSZ-P, GSZ-S",
+   "Refundable salvage spear: KTDLM-N. KTDLM-H, KTDLM-P",
+   "magnetic salvage: CLDLQ-N, CLDLQ-H, CLDLQ-P",
+   "pipe cutter: GGQ-N, GGQ-H, GGQ-P, GGQ-S"
+  ],
+  "image": "jsexplo/accident-handling-tools.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/52.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Drill & Reamer",
+  "group": "TW Series Coring",
+  "name": "Diamond drill bit & reamer",
+  "description": "Diamond drill bit &amp; reamer TW series diamond bits are thin-walled products, used in complete hard rock formation, low power drilling can achieve fast and efficient footage. TW series impregnated diamond drill bits are exclusive K series matrix.",
+  "specs": [
+   "Lip: Teeth",
+   "Caliber: Product Standards",
+   "A: ATW",
+   "B: BTW",
+   "N: NTW, NTW76, NTW76.5"
+  ],
+  "image": "jsexplo/diamond-drill-bit-and-reamer.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/86.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Rope drill pipe",
+  "group": "TW Series Coring",
+  "name": "TW series rope drill pipe",
+  "description": "Product specifications: ATW, BTW, NTW, NTWX, HTW, HTWA. NTWX double-head thread structure, adapt to the requirements of rapid screwing and unloading, suitable for deep hole drilling.",
+  "specs": [],
+  "image": "jsexplo/tw-series-rope-drill-pipe.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/85.html"
+ },
+ {
+  "brand": "JS Explo",
+  "brandKey": "jsexplo",
+  "category": "Wireline coring tool",
+  "group": "TW Series Coring",
+  "name": "Wireline coring tool",
+  "description": "Wire-line coring tools include TW series double-pipe drilling tools and TWU series double-pipe drilling tools. TWU series is specially used for horizontal holes of tunnels.",
+  "specs": [
+   "Series: Standard",
+   "TW: ATW, BTW, NTW, HTW, HTWA",
+   "TWU: ATWU, BTWU, NTWU, HTWU"
+  ],
+  "image": "jsexplo/wireline-coring-tool.webp",
+  "sourceUrl": "https://www.jsexplo.com/products_detail/84.html"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Core Drilling Rigs",
+  "group": "Core Drilling Rigs",
+  "name": "Levent 1001",
+  "description": "Fully hydraulic core drilling rig with safe, fast rod handling and hydraulic rod making and breaking. Drills in any direction.",
+  "specs": [
+   "Rod sizes: A",
+   "Power: Hydraulic Motor",
+   "Max. Torque: 250 Nm (184 ft lbf)",
+   "Max. Rotation Speed: 2200 rpm",
+   "Type: Hydraulic Closed, Spring Open"
+  ],
+  "image": "sonmak/levent-1001.webp",
+  "sourceUrl": "https://son-mak.com.tr/products/core-drilling-rigs/levent-1001/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Core Drilling Rigs",
+  "group": "Core Drilling Rigs",
+  "name": "Levent 2002",
+  "description": "Fully hydraulic core drilling rig with safe, fast rod handling and hydraulic rod making and breaking. Drills in any direction.",
+  "specs": [
+   "Hydraulic Oil Cooling: Water and Air Oil Cooler",
+   "Cooling System: Air",
+   "Engine Type: Turbo Charged, After Cooled Diesel Engine.",
+   "Drilling Angle: 360 degrees",
+   "Type: hydraulically open, disc spring close"
+  ],
+  "image": "sonmak/levent-2002.webp",
+  "sourceUrl": "https://son-mak.com.tr/products/core-drilling-rigs/levent-2002-3-2/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Core Drilling Rigs",
+  "group": "Core Drilling Rigs",
+  "name": "Levent 3003",
+  "description": "Fully hydraulic core drilling rig with safe, fast rod handling and hydraulic rod making and breaking. Drills in any direction.",
+  "specs": [
+   "Rod sizes: B-H",
+   "Power: Hydraulic Motor",
+   "Max. Torque: 2300 Nm (1696 ft lbf)",
+   "Max. Rotation Speed: 1200 rpm",
+   "Type: Hydraulic Closed, Spring Open"
+  ],
+  "image": "sonmak/levent-3003.webp",
+  "sourceUrl": "https://son-mak.com.tr/products/core-drilling-rigs/levent-3003/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Core Drilling Rigs",
+  "group": "Core Drilling Rigs",
+  "name": "Levent 4004",
+  "description": "Fully hydraulic core drilling rig with safe, fast rod handling and hydraulic rod making and breaking. Drills in any direction.",
+  "specs": [
+   "Rod sizes: B-H",
+   "Power: Hydraulic Motor",
+   "Max. Torque: 2425 Nm (1789 ft lbf)",
+   "Max. Rotation Speed: 1400 rpm",
+   "Type: Hydraulic Closed, Spring Open"
+  ],
+  "image": "sonmak/levent-4004.webp",
+  "sourceUrl": "https://son-mak.com.tr/products/core-drilling-rigs/levent-4004-5/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Core Drilling Rigs",
+  "group": "Core Drilling Rigs",
+  "name": "RX-4",
+  "description": "Fully hydraulic core drilling rig with safe, fast rod handling and hydraulic rod making and breaking. Drills in any direction.",
+  "specs": [
+   "Rod sizes: B-P",
+   "Power: Hydraulic Motor",
+   "Transmission: Funk 4 speed",
+   "Final Drive: Straight cut gears",
+   "Ratio: 2:1"
+  ],
+  "image": "sonmak/rx-4.webp",
+  "sourceUrl": "https://son-mak.com.tr/products/core-drilling-rigs/rx-4/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Core Drilling Rigs",
+  "group": "Core Drilling Rigs",
+  "name": "RX-5",
+  "description": "Fully hydraulic core drilling rig with safe, fast rod handling and hydraulic rod making and breaking. Drills in any direction.",
+  "specs": [
+   "Rod sizes: B-P",
+   "Power: Hydraulic Motor",
+   "Transmission: Funk 4 speed",
+   "Final Drive: Straight cut gears",
+   "Ratio: 2.42:1"
+  ],
+  "image": "sonmak/rx-5.webp",
+  "sourceUrl": "https://son-mak.com.tr/products/core-drilling-rigs/rx-5-2/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Core Drilling Rigs",
+  "group": "Core Drilling Rigs",
+  "name": "RX-7",
+  "description": "Fully hydraulic core drilling rig with safe, fast rod handling and hydraulic rod making and breaking. Drills in any direction.",
+  "specs": [
+   "Rod sizes: B-P",
+   "Power: Hydraulic Motor",
+   "Transmission: Funk 4 speed",
+   "Final Drive: Straight cut gears",
+   "Ratio: 2:1"
+  ],
+  "image": "sonmak/rx-7.webp",
+  "sourceUrl": "https://son-mak.com.tr/products/core-drilling-rigs/rx-7-2/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Grouting Systems",
+  "group": "Grouting Systems",
+  "name": "AGP-01",
+  "description": "The whole system can be mounted on the skid frame or in the container.",
+  "specs": [
+   "Mixer Electrical Motor: 7.5 kW (10hp)",
+   "Gearbox Output Circuit: 607 rpm/min",
+   "Tank Capacity: 500lt",
+   "Agigator Electrical Motor: 2.2 kW (3hp)",
+   "Gearbox Output Circuit: 65 rpm/min"
+  ],
+  "image": "sonmak/agp-01.webp",
+  "sourceUrl": "https://son-mak.com.tr/grouting-systems/agp-01-3/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Grouting Systems",
+  "group": "Grouting Systems",
+  "name": "AGP-02",
+  "description": "Grout pump unit for cement grouting operations.",
+  "specs": [
+   "Mixer Electrical Motor: 7.5 kW (10hp)",
+   "Gearbox Output Circuit: 607 rpm/min",
+   "Tank Capacity: 500lt",
+   "Agigator Electrical Motor: 2.2 kW (3hp)",
+   "Gearbox Output Circuit: 65 rpm/min"
+  ],
+  "image": "sonmak/agp-02.webp",
+  "sourceUrl": "https://son-mak.com.tr/grouting-systems/agp-02-3/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Grouting Systems",
+  "group": "Grouting Systems",
+  "name": "EP-150",
+  "description": "Grout pump unit for cement grouting operations.",
+  "specs": [
+   "Hydraulic Flow: 0-65 l/min. (17gal/min.)",
+   "Hydraulic Pressure: 215 Bar (3118 psi)",
+   "LowPressure, High Flow: 150 mm, (6 in)",
+   "Medium Pressure, Medium Flow: 110 mm, (4-1/3 in)",
+   "High Pressure, Low Flow: 80 mm, (3-1/6 in)"
+  ],
+  "image": "sonmak/ep-150.webp",
+  "sourceUrl": "https://son-mak.com.tr/grouting-systems/ep-150/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Grouting Systems",
+  "group": "Grouting Systems",
+  "name": "EPM-150",
+  "description": "Low speed agigator ensures mix continuous and evenly. Water, cement and other media are quickly mixed into a homogeneous slurry.",
+  "specs": [
+   "Hydraulic Flow: 0-65 l/min. (17gal/min.)",
+   "Hydraulic Pressure: 215 Bar (3118 psi)",
+   "LowPressure, High Flow: 150 mm, (6 in)",
+   "Medium Pressure, Medium Flow: 110 mm, (4-1/3 in)",
+   "High Pressure, Low Flow: 80 mm, (3-1/6 in)"
+  ],
+  "image": "sonmak/epm-150.webp",
+  "sourceUrl": "https://son-mak.com.tr/grouting-systems/epm-150/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Grouting Systems",
+  "group": "Grouting Systems",
+  "name": "GPS-150",
+  "description": "High speed mixer ensures mix quickly and evenly. Water, cement and other media are quickly mixed into a homogeneous slurry.",
+  "specs": [
+   "Hydraulic Flow: 0-65 l/min. (14.3 gal/min.)",
+   "Hydraulic Pressure: 215 Bar (3118 psi)",
+   "Low Pressure, High Flow: 150 mm, (6 in)",
+   "Medium Pressure, Medium Flow: 110 mm, (4-1/3 in)",
+   "High Pressure, Low Flow: 80 mm, (3-1/6 in)"
+  ],
+  "image": "sonmak/gps-150.webp",
+  "sourceUrl": "https://son-mak.com.tr/grouting-systems/gps-150/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Grouting Systems",
+  "group": "Grouting Systems",
+  "name": "Grouting Packers",
+  "description": "Son-Mak brand packers are manufactured as standard with 6 different outer diameter varying from 44 mm to 94 mm. Optionally, special production can be made.",
+  "specs": [
+   "PART NO: PH01",
+   "Material: Polyamide",
+   "Inner diameter: 3mm",
+   "Outer diameter: 6mm",
+   "Max.Working Pressure: 45 bar"
+  ],
+  "image": "sonmak/grouting-packers.webp",
+  "sourceUrl": "https://son-mak.com.tr/grouting-systems/packers/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Water Swivels",
+  "group": "Water Swivels",
+  "name": "WS-AO Water Swivel",
+  "description": "Water swivel that feeds flushing fluid into the rotating drill string.",
+  "specs": [],
+  "image": "sonmak/ws-ao-water-swivel.webp",
+  "sourceUrl": "https://son-mak.com.tr/products/exploration-drilling-tools/water-swivels-spare-parts-kit-2/underground-water-swivel/ws-ao-water-swivel/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Water Swivels",
+  "group": "Water Swivels",
+  "name": "WS-AWJ Water Swivel",
+  "description": "Water swivel that feeds flushing fluid into the rotating drill string.",
+  "specs": [],
+  "image": "sonmak/ws-awj-water-swivel.webp",
+  "sourceUrl": "https://son-mak.com.tr/products/exploration-drilling-tools/water-swivels-spare-parts-kit-2/underground-water-swivel/ws-awj-water-swivel/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Water Swivels",
+  "group": "Water Swivels",
+  "name": "WS-NO Water Swivel",
+  "description": "Water swivel that feeds flushing fluid into the rotating drill string.",
+  "specs": [],
+  "image": "sonmak/ws-no-water-swivel.webp",
+  "sourceUrl": "https://son-mak.com.tr/products/exploration-drilling-tools/water-swivels-spare-parts-kit-2/underground-water-swivel/ws-no-water-swivel/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Water Swivels",
+  "group": "Water Swivels",
+  "name": "WS-BO Water Swivel",
+  "description": "Water swivel that feeds flushing fluid into the rotating drill string.",
+  "specs": [],
+  "image": "sonmak/ws-bo-water-swivel.webp",
+  "sourceUrl": "https://son-mak.com.tr/products/exploration-drilling-tools/water-swivels-spare-parts-kit-2/underground-water-swivel/ws-bo-water-swivel/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Water Swivels",
+  "group": "Water Swivels",
+  "name": "WS-BWJ Water Swivel",
+  "description": "Water swivel that feeds flushing fluid into the rotating drill string.",
+  "specs": [],
+  "image": "sonmak/ws-bwj-water-swivel.webp",
+  "sourceUrl": "https://son-mak.com.tr/products/exploration-drilling-tools/water-swivels-spare-parts-kit-2/underground-water-swivel/ws-bwj-water-swivel/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Water Swivels",
+  "group": "Water Swivels",
+  "name": "WS-NWJ Water Swivel",
+  "description": "Water swivel that feeds flushing fluid into the rotating drill string.",
+  "specs": [],
+  "image": "sonmak/ws-nwj-water-swivel.webp",
+  "sourceUrl": "https://son-mak.com.tr/products/exploration-drilling-tools/water-swivels-spare-parts-kit-2/underground-water-swivel/ws-nwj-water-swivel/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Water Swivels",
+  "group": "Water Swivels",
+  "name": "Heavy Duty Water Swivel",
+  "description": "Water swivel that feeds flushing fluid into the rotating drill string.",
+  "specs": [],
+  "image": "sonmak/heavy-duty-water-swivel.webp",
+  "sourceUrl": "https://son-mak.com.tr/products/exploration-drilling-tools/water-swivels-spare-parts-kit-2/heavy-duty-water-swivel/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Water Swivels",
+  "group": "Water Swivels",
+  "name": "Compact Plus Water Swivel",
+  "description": "Water swivel that feeds flushing fluid into the rotating drill string.",
+  "specs": [],
+  "image": "sonmak/compact-plus-water-swivel.webp",
+  "sourceUrl": "https://son-mak.com.tr/products/exploration-drilling-tools/water-swivels-spare-parts-kit-2/compact-plus-water-swivel/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Water Swivels",
+  "group": "Water Swivels",
+  "name": "Standard Duty Water Swivel",
+  "description": "Water swivel that feeds flushing fluid into the rotating drill string.",
+  "specs": [],
+  "image": "sonmak/standard-duty-water-swivel.webp",
+  "sourceUrl": "https://son-mak.com.tr/products/exploration-drilling-tools/water-swivels-spare-parts-kit-2/standard-duty-water-swivel/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Water Swivels",
+  "group": "Water Swivels",
+  "name": "Water Swivel Spare Parts Kit",
+  "description": "Seal and bearing spare parts kit for Son-Mak water swivels.",
+  "specs": [],
+  "image": "sonmak/water-swivel-spare-parts-kit.webp",
+  "sourceUrl": "https://son-mak.com.tr/products/exploration-drilling-tools/water-swivels-spare-parts-kit-2/water-swivel-spare-parts-kit/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Wireline Core Barrels",
+  "group": "Wireline Core Barrels",
+  "name": "BO Wireline Core Barrel",
+  "description": "BO wireline core barrel. The inner tube assembly is retrieved through the rods by overshot, without tripping the string.",
+  "specs": [],
+  "image": "sonmak/bo-wireline-core-barrel.webp",
+  "sourceUrl": "https://son-mak.com.tr/bo-wireline-core-barrel-2/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Wireline Core Barrels",
+  "group": "Wireline Core Barrels",
+  "name": "BO-U Underground Core Barrel",
+  "description": "BO-U wireline core barrel. The inner tube assembly is retrieved through the rods by overshot, without tripping the string.",
+  "specs": [],
+  "image": "sonmak/bo-u-underground-core-barrel.webp",
+  "sourceUrl": "https://son-mak.com.tr/bo-u-underground-core-barrel/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Wireline Core Barrels",
+  "group": "Wireline Core Barrels",
+  "name": "NO Wireline Core Barrel",
+  "description": "NO wireline core barrel. The inner tube assembly is retrieved through the rods by overshot, without tripping the string.",
+  "specs": [],
+  "image": "sonmak/no-wireline-core-barrel.webp",
+  "sourceUrl": "https://son-mak.com.tr/no-wireline-core-barrel-2/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Wireline Core Barrels",
+  "group": "Wireline Core Barrels",
+  "name": "NO-U Underground Core Barrel",
+  "description": "NO-U wireline core barrel. The inner tube assembly is retrieved through the rods by overshot, without tripping the string.",
+  "specs": [],
+  "image": "sonmak/no-u-underground-core-barrel.webp",
+  "sourceUrl": "https://son-mak.com.tr/no-u-underground-core-barrel/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Wireline Core Barrels",
+  "group": "Wireline Core Barrels",
+  "name": "NO3 Triple Tube Wireline Core Barrel",
+  "description": "NO3 wireline core barrel. The inner tube assembly is retrieved through the rods by overshot, without tripping the string.",
+  "specs": [],
+  "image": "sonmak/no3-triple-tube-wireline-core-barrel.webp",
+  "sourceUrl": "https://son-mak.com.tr/no3-triple-tube-wireline-core-barrel/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Wireline Core Barrels",
+  "group": "Wireline Core Barrels",
+  "name": "HO-U Underground Core Barrel",
+  "description": "HO-U wireline core barrel. The inner tube assembly is retrieved through the rods by overshot, without tripping the string.",
+  "specs": [],
+  "image": "sonmak/ho-u-underground-core-barrel.webp",
+  "sourceUrl": "https://son-mak.com.tr/ho-u-underground-core-barrel/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Wireline Core Barrels",
+  "group": "Wireline Core Barrels",
+  "name": "HO3 Triple Tube Wireline Core Barrel",
+  "description": "HO3 wireline core barrel. The inner tube assembly is retrieved through the rods by overshot, without tripping the string.",
+  "specs": [],
+  "image": "sonmak/ho3-triple-tube-wireline-core-barrel.webp",
+  "sourceUrl": "https://son-mak.com.tr/ho3-triple-tube-wireline-core-barrel/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Wireline Core Barrels",
+  "group": "Wireline Core Barrels",
+  "name": "PO Wireline Core Barrel",
+  "description": "PO wireline core barrel. The inner tube assembly is retrieved through the rods by overshot, without tripping the string.",
+  "specs": [],
+  "image": "sonmak/po-wireline-core-barrel.webp",
+  "sourceUrl": "https://son-mak.com.tr/po-wireline-core-barrel/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Wireline Core Barrels",
+  "group": "Wireline Core Barrels",
+  "name": "PO3 Triple Tube Wireline Core Barrel",
+  "description": "PO3 wireline core barrel. The inner tube assembly is retrieved through the rods by overshot, without tripping the string.",
+  "specs": [],
+  "image": "sonmak/po3-triple-tube-wireline-core-barrel.webp",
+  "sourceUrl": "https://son-mak.com.tr/po3-triple-tube-wireline-core-barrel/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Wireline Core Barrels",
+  "group": "Wireline Core Barrels",
+  "name": "HO Wireline Core Barrel",
+  "description": "HO wireline core barrel. The inner tube assembly is retrieved through the rods by overshot, without tripping the string.",
+  "specs": [],
+  "image": "sonmak/ho-wireline-core-barrel.webp",
+  "sourceUrl": "https://son-mak.com.tr/ho-wireline-core-barrel/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Head Assemblies",
+  "group": "Head Assemblies",
+  "name": "BO Head Assemblies",
+  "description": "Inner tube head assembly for the BO wireline core barrel.",
+  "specs": [],
+  "image": "sonmak/bo-head-assemblies.webp",
+  "sourceUrl": "https://son-mak.com.tr/bo-head-assemblies/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Head Assemblies",
+  "group": "Head Assemblies",
+  "name": "BO-U Underground Head Assemblies",
+  "description": "Inner tube head assembly for the BO-U underground wireline core barrel.",
+  "specs": [],
+  "image": "sonmak/bo-u-underground-head-assemblies.webp",
+  "sourceUrl": "https://son-mak.com.tr/bo-u-underground-head-assemblies/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Head Assemblies",
+  "group": "Head Assemblies",
+  "name": "NO Head Assemblies",
+  "description": "Inner tube head assembly for the NO wireline core barrel.",
+  "specs": [],
+  "image": "sonmak/no-head-assemblies.webp",
+  "sourceUrl": "https://son-mak.com.tr/no-head-assemblies/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Head Assemblies",
+  "group": "Head Assemblies",
+  "name": "NO-U Underground Head Assemblies",
+  "description": "Inner tube head assembly for the NO-U underground wireline core barrel.",
+  "specs": [],
+  "image": "sonmak/no-u-underground-head-assemblies.webp",
+  "sourceUrl": "https://son-mak.com.tr/no-u-underground-head-assemblies/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Head Assemblies",
+  "group": "Head Assemblies",
+  "name": "HO Head Assemblies",
+  "description": "Inner tube head assembly for the HO wireline core barrel.",
+  "specs": [],
+  "image": "sonmak/ho-head-assemblies.webp",
+  "sourceUrl": "https://son-mak.com.tr/ho-head-assemblies/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Head Assemblies",
+  "group": "Head Assemblies",
+  "name": "HO-U Underground Head Assemblies",
+  "description": "Inner tube head assembly for the HO-U underground wireline core barrel.",
+  "specs": [],
+  "image": "sonmak/ho-u-underground-head-assemblies.webp",
+  "sourceUrl": "https://son-mak.com.tr/ho-u-underground-head-assemblies/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Head Assemblies",
+  "group": "Head Assemblies",
+  "name": "PO Head Assemblies",
+  "description": "Inner tube head assembly for the PO wireline core barrel.",
+  "specs": [],
+  "image": "sonmak/po-head-assemblies.webp",
+  "sourceUrl": "https://son-mak.com.tr/po-head-assemblies/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Overshots & Loading Chambers",
+  "group": "Overshots & Loading Chambers",
+  "name": "NO Overshot",
+  "description": "Overshot that latches onto the inner tube head assembly to retrieve core through the drill string.",
+  "specs": [],
+  "image": "sonmak/no-overshot.webp",
+  "sourceUrl": "https://son-mak.com.tr/bo-overshot/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Overshots & Loading Chambers",
+  "group": "Overshots & Loading Chambers",
+  "name": "HO Overshot",
+  "description": "Overshot that latches onto the inner tube head assembly to retrieve core through the drill string.",
+  "specs": [],
+  "image": "sonmak/ho-overshot.webp",
+  "sourceUrl": "https://son-mak.com.tr/ho-overshot/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Overshots & Loading Chambers",
+  "group": "Overshots & Loading Chambers",
+  "name": "PO Overshot",
+  "description": "Overshot that latches onto the inner tube head assembly to retrieve core through the drill string.",
+  "specs": [],
+  "image": "sonmak/po-overshot.webp",
+  "sourceUrl": "https://son-mak.com.tr/po-overshot/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Overshots & Loading Chambers",
+  "group": "Overshots & Loading Chambers",
+  "name": "BO-U Underground Overshot",
+  "description": "Overshot that latches onto the inner tube head assembly to retrieve core through the drill string.",
+  "specs": [],
+  "image": "sonmak/bo-u-underground-overshot.webp",
+  "sourceUrl": "https://son-mak.com.tr/bo-u-underground-overshot/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Overshots & Loading Chambers",
+  "group": "Overshots & Loading Chambers",
+  "name": "NO-U Underground Overshot",
+  "description": "Overshot that latches onto the inner tube head assembly to retrieve core through the drill string.",
+  "specs": [],
+  "image": "sonmak/no-u-underground-overshot.webp",
+  "sourceUrl": "https://son-mak.com.tr/no-u-underground-overshot/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Overshots & Loading Chambers",
+  "group": "Overshots & Loading Chambers",
+  "name": "HO-U Underground Overshot",
+  "description": "Overshot that latches onto the inner tube head assembly to retrieve core through the drill string.",
+  "specs": [],
+  "image": "sonmak/ho-u-underground-overshot.webp",
+  "sourceUrl": "https://son-mak.com.tr/ho-u-underground-overshot/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Overshots & Loading Chambers",
+  "group": "Overshots & Loading Chambers",
+  "name": "BO / BO-U Loading Chamber",
+  "description": "Loading chamber for inserting and retrieving the wireline inner tube assembly.",
+  "specs": [],
+  "image": "sonmak/bo-bo-u-loading-chamber.webp",
+  "sourceUrl": "https://son-mak.com.tr/bo-bo-u-loading-chamber/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Overshots & Loading Chambers",
+  "group": "Overshots & Loading Chambers",
+  "name": "NO / NO-U Loading Chamber",
+  "description": "Loading chamber for inserting and retrieving the wireline inner tube assembly.",
+  "specs": [],
+  "image": "sonmak/no-no-u-loading-chamber.webp",
+  "sourceUrl": "https://son-mak.com.tr/no-no-u-loading-chamber/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Overshots & Loading Chambers",
+  "group": "Overshots & Loading Chambers",
+  "name": "HO / HO-U Loading Chamber",
+  "description": "Loading chamber for inserting and retrieving the wireline inner tube assembly.",
+  "specs": [],
+  "image": "sonmak/ho-ho-u-loading-chamber.webp",
+  "sourceUrl": "https://son-mak.com.tr/ho-ho-u-loading-chamber/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Diamond Products",
+  "group": "Diamond Products",
+  "name": "Core Bits",
+  "description": "Impregnated diamond core bits, series matched to ground hardness and abrasiveness.",
+  "specs": [],
+  "image": "sonmak/core-bits.webp",
+  "sourceUrl": "https://son-mak.com.tr/core-bits-2/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Diamond Products",
+  "group": "Diamond Products",
+  "name": "Reaming Shell",
+  "description": "The reaming shell is used to maintain a specified hole diameter as the rod string descends. In addition the reaming shell helps to stabilize the rod string.",
+  "specs": [],
+  "image": "sonmak/reaming-shell.webp",
+  "sourceUrl": "https://son-mak.com.tr/reaming-shell-2/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Diamond Products",
+  "group": "Diamond Products",
+  "name": "Casing Shoes",
+  "description": "Diamond set casing shoe for advancing casing to depth.",
+  "specs": [],
+  "image": "sonmak/casing-shoes.webp",
+  "sourceUrl": "https://son-mak.com.tr/casing-shoes-2/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Diamond Products",
+  "group": "Diamond Products",
+  "name": "Rod Shoes",
+  "description": "Diamond set rod shoe for advancing rods through overburden.",
+  "specs": [],
+  "image": "sonmak/rod-shoes.webp",
+  "sourceUrl": "https://son-mak.com.tr/rod-shoes-2/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Rods & Casings",
+  "group": "Rods & Casings",
+  "name": "NO Wireline Rods",
+  "description": "NO wireline drill rods for core drilling.",
+  "specs": [
+   "NO300: NO Rod 3.0m (10′)",
+   "NRO300: NRO Rod 3.0m (10′)"
+  ],
+  "image": "sonmak/no-wireline-rods.webp",
+  "sourceUrl": "https://son-mak.com.tr/no-wireline-rods/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Rods & Casings",
+  "group": "Rods & Casings",
+  "name": "BO Wireline Rods",
+  "description": "BO wireline drill rods for core drilling.",
+  "specs": [
+   "BO300: BO Rod 3.0m (10′)",
+   "BRO300: BRO Rod 3.0m (10′)"
+  ],
+  "image": "sonmak/bo-wireline-rods.webp",
+  "sourceUrl": "https://son-mak.com.tr/bo-wireline-rods/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Rods & Casings",
+  "group": "Rods & Casings",
+  "name": "HO Wireline Rods",
+  "description": "HO wireline drill rods for core drilling.",
+  "specs": [
+   "HO300: HO Rod 3.0m (10′)",
+   "HRO300: HRO Rod 3.0m (10′)"
+  ],
+  "image": "sonmak/ho-wireline-rods.webp",
+  "sourceUrl": "https://son-mak.com.tr/ho-wireline-rods/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Rods & Casings",
+  "group": "Rods & Casings",
+  "name": "PHD Wireline Rods",
+  "description": "PHD wireline drill rods for core drilling.",
+  "specs": [
+   "PHD300: PHD Rod 3.0m (10′)"
+  ],
+  "image": "sonmak/phd-wireline-rods.webp",
+  "sourceUrl": "https://son-mak.com.tr/phd-wireline-rods/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Rods & Casings",
+  "group": "Rods & Casings",
+  "name": "AWJ Conventional Rods",
+  "description": "AWJ conventional drill rods.",
+  "specs": [
+   "AWJ300: AWJ Rod 3.0m (10′)"
+  ],
+  "image": "sonmak/awj-conventional-rods.webp",
+  "sourceUrl": "https://son-mak.com.tr/awj-conventional-rods/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Rods & Casings",
+  "group": "Rods & Casings",
+  "name": "BWJ Conventional Rods",
+  "description": "BWJ conventional drill rods.",
+  "specs": [
+   "BWJ300: BWJ Rod 3.0m (10′)"
+  ],
+  "image": "sonmak/bwj-conventional-rods.webp",
+  "sourceUrl": "https://son-mak.com.tr/bwj-conventional-rods/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Rods & Casings",
+  "group": "Rods & Casings",
+  "name": "NWJ Conventional Rods",
+  "description": "NWJ conventional drill rods.",
+  "specs": [
+   "NWJ300: NWJ Rod 3.0m (10′)"
+  ],
+  "image": "sonmak/nwj-conventional-rods.webp",
+  "sourceUrl": "https://son-mak.com.tr/nwj-conventional-rods/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Rods & Casings",
+  "group": "Rods & Casings",
+  "name": "BW Casings",
+  "description": "BW size drill casing, supplied in standard lengths.",
+  "specs": [
+   "CBW300: BW Casing 3.0m (10′)"
+  ],
+  "image": "sonmak/bw-casings.webp",
+  "sourceUrl": "https://son-mak.com.tr/bw-casings/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Rods & Casings",
+  "group": "Rods & Casings",
+  "name": "NW Casings",
+  "description": "NW size drill casing, supplied in standard lengths.",
+  "specs": [
+   "CNW300: NW Casing 3.0m (10′)"
+  ],
+  "image": "sonmak/nw-casings.webp",
+  "sourceUrl": "https://son-mak.com.tr/nw-casings/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Rods & Casings",
+  "group": "Rods & Casings",
+  "name": "PW Casings",
+  "description": "PW size drill casing, supplied in standard lengths.",
+  "specs": [
+   "CPW300: PW Casing 3.0m (10`)"
+  ],
+  "image": "sonmak/pw-casings.webp",
+  "sourceUrl": "https://son-mak.com.tr/pw-casings/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Rods & Casings",
+  "group": "Rods & Casings",
+  "name": "HW Casings",
+  "description": "HW size drill casing, supplied in standard lengths.",
+  "specs": [
+   "CHW300: HW Casing 3.0m (10′)"
+  ],
+  "image": "sonmak/hw-casings.webp",
+  "sourceUrl": "https://son-mak.com.tr/hw-casings/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Rods & Casings",
+  "group": "Rods & Casings",
+  "name": "NWT Casings",
+  "description": "NWT size drill casing, supplied in standard lengths.",
+  "specs": [
+   "NWT300: NWT Casing 3.0m (10′)"
+  ],
+  "image": "sonmak/nwt-casings.webp",
+  "sourceUrl": "https://son-mak.com.tr/nwt-casings/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Rods & Casings",
+  "group": "Rods & Casings",
+  "name": "HWT Casings",
+  "description": "HWT size drill casing, supplied in standard lengths.",
+  "specs": [
+   "HWT300: HWT Casing 3.0m (10′)"
+  ],
+  "image": "sonmak/hwt-casings.webp",
+  "sourceUrl": "https://son-mak.com.tr/hwt-casings/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Rods & Casings",
+  "group": "Rods & Casings",
+  "name": "PWT Casings",
+  "description": "PWT size drill casing, supplied in standard lengths.",
+  "specs": [
+   "PWT300: PWT Casing 3.0m (10`)"
+  ],
+  "image": "sonmak/pwt-casings.webp",
+  "sourceUrl": "https://son-mak.com.tr/pwt-casings/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Handling Tools & Spares",
+  "group": "Handling Tools & Spares",
+  "name": "AO Coring Wrenches",
+  "description": "Coring wrench for AO size rods and core barrels.",
+  "specs": [],
+  "image": "sonmak/ao-coring-wrenches.webp",
+  "sourceUrl": "https://son-mak.com.tr/coring-wrenches/ao-coring-wrenches/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Handling Tools & Spares",
+  "group": "Handling Tools & Spares",
+  "name": "BO Coring Wrenches",
+  "description": "Coring wrench for BO size rods and core barrels.",
+  "specs": [],
+  "image": "sonmak/bo-coring-wrenches.webp",
+  "sourceUrl": "https://son-mak.com.tr/coring-wrenches/bo-coring-wrenches/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Handling Tools & Spares",
+  "group": "Handling Tools & Spares",
+  "name": "NO Coring Wrenches",
+  "description": "Coring wrench for NO size rods and core barrels.",
+  "specs": [],
+  "image": "sonmak/no-coring-wrenches.webp",
+  "sourceUrl": "https://son-mak.com.tr/coring-wrenches/no-coring-wrenches/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Handling Tools & Spares",
+  "group": "Handling Tools & Spares",
+  "name": "HO Coring Wrenches",
+  "description": "Coring wrench for HO size rods and core barrels.",
+  "specs": [],
+  "image": "sonmak/ho-coring-wrenches.webp",
+  "sourceUrl": "https://son-mak.com.tr/coring-wrenches/ho-coring-wrenches/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Handling Tools & Spares",
+  "group": "Handling Tools & Spares",
+  "name": "PO Coring Wrenches",
+  "description": "Coring wrench for PO size rods and core barrels.",
+  "specs": [],
+  "image": "sonmak/po-coring-wrenches.webp",
+  "sourceUrl": "https://son-mak.com.tr/coring-wrenches/po-coring-wrenches/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Handling Tools & Spares",
+  "group": "Handling Tools & Spares",
+  "name": "Heavy-Duty Straight Pipe Wrenches",
+  "description": "Heavy duty straight pipe wrenches for rod and casing handling.",
+  "specs": [],
+  "image": "sonmak/heavy-duty-straight-pipe-wrenches.webp",
+  "sourceUrl": "https://son-mak.com.tr/coring-wrenches/heavy-duty-straight-pipe-wrenches/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Handling Tools & Spares",
+  "group": "Handling Tools & Spares",
+  "name": "BW Casing Cutter Assembly",
+  "description": "Downhole cutter assembly for BW casing.",
+  "specs": [],
+  "image": "sonmak/bw-casing-cutter-assembly.webp",
+  "sourceUrl": "https://son-mak.com.tr/casing-cutters/bw-casing-cutter-assembly/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Handling Tools & Spares",
+  "group": "Handling Tools & Spares",
+  "name": "NW Casing Rod Cutter Assembly",
+  "description": "Downhole cutter assembly for NW casing.",
+  "specs": [],
+  "image": "sonmak/nw-casing-rod-cutter-assembly.webp",
+  "sourceUrl": "https://son-mak.com.tr/casing-cutters/nw-casing-rod-cutter-assembly/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Handling Tools & Spares",
+  "group": "Handling Tools & Spares",
+  "name": "HW Casing Cutter Assembly",
+  "description": "Downhole cutter assembly for HW casing.",
+  "specs": [],
+  "image": "sonmak/hw-casing-cutter-assembly.webp",
+  "sourceUrl": "https://son-mak.com.tr/casing-cutters/hw-casing-cutter-assembly/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Handling Tools & Spares",
+  "group": "Handling Tools & Spares",
+  "name": "PW Casing Cutter Assembly",
+  "description": "Downhole cutter assembly for PW casing.",
+  "specs": [],
+  "image": "sonmak/pw-casing-cutter-assembly.webp",
+  "sourceUrl": "https://son-mak.com.tr/casing-cutters/pw-casing-cutter-assembly/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Handling Tools & Spares",
+  "group": "Handling Tools & Spares",
+  "name": "Rotation Adapter Subs",
+  "description": "Rotation adapter subs for connecting string components.",
+  "specs": [],
+  "image": "sonmak/rotation-adapter-subs.webp",
+  "sourceUrl": "https://son-mak.com.tr/adapter-subs/rotation-adapter-subs/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Handling Tools & Spares",
+  "group": "Handling Tools & Spares",
+  "name": "Drill Rod Adapter Subs",
+  "description": "Drill Rod adapter subs for connecting string components.",
+  "specs": [],
+  "image": "sonmak/drill-rod-adapter-subs.webp",
+  "sourceUrl": "https://son-mak.com.tr/adapter-subs/drill-rod-adapter-subs/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Handling Tools & Spares",
+  "group": "Handling Tools & Spares",
+  "name": "Recovery Tool Adapter Subs",
+  "description": "Recovery Tool adapter subs for connecting string components.",
+  "specs": [],
+  "image": "sonmak/recovery-tool-adapter-subs.webp",
+  "sourceUrl": "https://son-mak.com.tr/adapter-subs/recovery-tool-adapter-subs/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Handling Tools & Spares",
+  "group": "Handling Tools & Spares",
+  "name": "Casing Adapter Subs",
+  "description": "Casing adapter subs for connecting string components.",
+  "specs": [],
+  "image": "sonmak/casing-adapter-subs.webp",
+  "sourceUrl": "https://son-mak.com.tr/adapter-subs/casing-adapter-subs/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Handling Tools & Spares",
+  "group": "Handling Tools & Spares",
+  "name": "Hoisting Plug Adapter Subs",
+  "description": "Hoisting Plug adapter subs for connecting string components.",
+  "specs": [],
+  "image": "sonmak/hoisting-plug-adapter-subs.webp",
+  "sourceUrl": "https://son-mak.com.tr/adapter-subs/hosting-plug-adapter-subs/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Handling Tools & Spares",
+  "group": "Handling Tools & Spares",
+  "name": "Water Swivel Adapter Subs",
+  "description": "Water Swivel adapter subs for connecting string components.",
+  "specs": [],
+  "image": "sonmak/water-swivel-adapter-subs.webp",
+  "sourceUrl": "https://son-mak.com.tr/adapter-subs/water-swivel-adapter-subs/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Handling Tools & Spares",
+  "group": "Handling Tools & Spares",
+  "name": "Recovery Taps",
+  "description": "Recovery taps for fishing lost rods and casing.",
+  "specs": [],
+  "image": "sonmak/recovery-taps.webp",
+  "sourceUrl": "https://son-mak.com.tr/recovery-taps/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Handling Tools & Spares",
+  "group": "Handling Tools & Spares",
+  "name": "Standard Duty Hoisting Plug",
+  "description": "Hoisting plug for lifting and lowering drill rods.",
+  "specs": [],
+  "image": "sonmak/standard-duty-hoisting-plug.webp",
+  "sourceUrl": "https://son-mak.com.tr/standard-duty-hosting-plug/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Handling Tools & Spares",
+  "group": "Handling Tools & Spares",
+  "name": "Spare Parts Kit",
+  "description": "Spare parts kit for Son-Mak exploration drilling tools.",
+  "specs": [],
+  "image": "sonmak/spare-parts-kit.webp",
+  "sourceUrl": "https://son-mak.com.tr/spare-parts-kit/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Mud Pumps",
+  "group": "Mud Pumps",
+  "name": "TP-45",
+  "description": "Mud pump for drilling fluid circulation on exploration rigs.",
+  "specs": [
+   "Configuration: Horizontal Triplex Pump",
+   "Number of Pistons: 3",
+   "Stroke Length: 28 mm (1.1 in)",
+   "Lube Oil Capacity: 1.2 l (40 oz)",
+   "Lube Oil Type: SAE 30"
+  ],
+  "image": "sonmak/tp-45.webp",
+  "sourceUrl": "https://son-mak.com.tr/tp-45/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Mud Pumps",
+  "group": "Mud Pumps",
+  "name": "TP-80",
+  "description": "Mud pump for drilling fluid circulation on exploration rigs.",
+  "specs": [
+   "Configuration: Horizontal Triplex Pump",
+   "Number of Pistons: 3",
+   "Stroke Length: 57.2 mm (2.25in)",
+   "Piston Load: 1.27 kg (2.8 lb)",
+   "Ratio: 3.6:1"
+  ],
+  "image": "sonmak/tp-80.webp",
+  "sourceUrl": "https://son-mak.com.tr/mud-pumps-and-spares/tp-80/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Mud Pumps",
+  "group": "Mud Pumps",
+  "name": "TP-135",
+  "description": "Mud pump for drilling fluid circulation on exploration rigs.",
+  "specs": [
+   "Configuration: Horizontal Triplex Pump",
+   "Number of Pistons: 3",
+   "Stroke Length: 69.9m m (2.75 in)",
+   "Piston Laod: 2.69 kg (5.93lb)",
+   "Ratio: 3.6:1"
+  ],
+  "image": "sonmak/tp-135.webp",
+  "sourceUrl": "https://son-mak.com.tr/mud-pumps-and-spares/tp-135/"
+ },
+ {
+  "brand": "Son-Mak",
+  "brandKey": "sonmak",
+  "category": "Mud Pumps",
+  "group": "Mud Pumps",
+  "name": "TP-220",
+  "description": "Mud pump for drilling fluid circulation on exploration rigs.",
+  "specs": [
+   "Configuration: Horizontal Triplex Pump",
+   "Number of Pistons: 3",
+   "Stroke Length: 28 mm (1.1 in)",
+   "Lube Oil Capacity: 1.2 l (40 oz)",
+   "Lube Oil Type: SAE 30"
+  ],
+  "image": "sonmak/tp-220.webp",
+  "sourceUrl": "https://son-mak.com.tr/mud-pumps-and-spares/tp-220/"
+ },
+ {
+  "brand": "Muster Fire",
+  "brandKey": "musterfire",
+  "category": "Foam Based System",
+  "group": "Foam Based System",
+  "name": "Muster Foam-Based Fire Suppression System",
+  "description": "Automatic foam suppression system that protects mobile machinery from hydrocarbon fuel fires. On detection it discharges a large volume of foam that blankets the fuel surface, cools the hazard and prevents re-ignition.",
+  "specs": [
+   "Certification: AS5062"
+  ],
+  "image": "musterfire/muster-foam-based-fire-suppression-system.webp",
+  "sourceUrl": "https://musterfire.com/foam-based-fire-suppression-system/"
+ },
+ {
+  "brand": "Muster Fire",
+  "brandKey": "musterfire",
+  "category": "Foam Based System",
+  "group": "Foam Based System",
+  "name": "Linear Heat Detection (LHD) System",
+  "description": "Electrically controlled detection option for Muster foam systems. When fire is sensed the control panel enters fire mode, sounds an alarm, runs the shutdown sequence and triggers the cylinder valve to discharge foam, with manual activation available from the remote actuator.",
+  "specs": [],
+  "image": "musterfire/linear-heat-detection-lhd-system.webp",
+  "sourceUrl": "https://musterfire.com/foam-based-fire-suppression-system/"
+ },
+ {
+  "brand": "Muster Fire",
+  "brandKey": "musterfire",
+  "category": "Foam Based System",
+  "group": "Foam Based System",
+  "name": "Loss of Pressure (LOP) Detection System",
+  "description": "Mechanical detection option built around a pressurised sensor tube. Fire ruptures the tube and the released inert gas trips the cylinder valve to discharge foam, and the valve can also be triggered manually with the remote actuator.",
+  "specs": [],
+  "image": "musterfire/loss-of-pressure-lop-detection-system.webp",
+  "sourceUrl": "https://musterfire.com/foam-based-fire-suppression-system/"
+ },
+ {
+  "brand": "Muster Fire",
+  "brandKey": "musterfire",
+  "category": "Foam Based System",
+  "group": "Foam Based System",
+  "name": "Lay Flat Cylinders",
+  "description": "Compact lay flat foam cylinders designed for small machines with limited installation space.",
+  "specs": [
+   "Capacity: 20 L to 30 L"
+  ],
+  "image": "musterfire/lay-flat-cylinders.webp",
+  "sourceUrl": "https://musterfire.com/foam-based-fire-suppression-system/"
+ },
+ {
+  "brand": "Muster Fire",
+  "brandKey": "musterfire",
+  "category": "Foam Based System",
+  "group": "Foam Based System",
+  "name": "Cylinder Valve",
+  "description": "Machined from a single piece of billet stainless steel for reliability and performance.",
+  "specs": [
+   "Material: single-piece billet stainless steel",
+   "Configurations: electronic LHD or pneumatic LOP"
+  ],
+  "image": "musterfire/cylinder-valve.webp",
+  "sourceUrl": "https://musterfire.com/foam-based-fire-suppression-system/"
+ },
+ {
+  "brand": "Muster Fire",
+  "brandKey": "musterfire",
+  "category": "Impulse Powder System (IPS)",
+  "group": "Impulse Powder System (IPS)",
+  "name": "Muster Impulse Powder System (IPS)",
+  "description": "Self-generating, non-pressurised fire suppression system that converts dry chemical powder into a dense protective cloud on electrical activation, smothering flames and blanketing the risk area. Runs standalone or in a dual agent setup and suits mobile equipment in mining, construction, transportation, energy and marine service.",
+  "specs": [
+   "Canister sizes: 4",
+   "System capacity: up to 8 IPS units via integration module",
+   "Certification: AS5062 and AS4487",
+   "Detection: MusterWire in 68 C, 105 C and 180 C variants",
+   "Nozzle options: flat, cone, vector or straight"
+  ],
+  "image": "musterfire/muster-impulse-powder-system-ips.webp",
+  "sourceUrl": "https://musterfire.com/impulse-powder-dry-chemical-fire-suppression/"
+ },
+ {
+  "brand": "Muster Fire",
+  "brandKey": "musterfire",
+  "category": "Impulse Powder System (IPS)",
+  "group": "Impulse Powder System (IPS)",
+  "name": "IPS Units",
+  "description": "Self-generating, non-pressurised canisters that hold the dry chemical powder charge, available in four sizes. They mount directly inside the risk area or feed a pipe network fitted with discharge nozzles.",
+  "specs": [
+   "Sizes available: 4",
+   "Installation: direct mount or pipe network with nozzles"
+  ],
+  "image": "musterfire/ips-units.webp",
+  "sourceUrl": "https://musterfire.com/impulse-powder-dry-chemical-fire-suppression/"
+ },
+ {
+  "brand": "Muster Fire",
+  "brandKey": "musterfire",
+  "category": "Misting System",
+  "group": "Misting System",
+  "name": "Muster Misting Fire Suppression System",
+  "description": "Pre-engineered water-foam misting system that protects engine bays and fuel areas on mobile machinery. On detection it discharges a fine mist of fluorine-free F3 foam solution that absorbs heat, displaces oxygen and seals fuel vapours to prevent re-ignition.",
+  "specs": [
+   "Certification: AS5062:2022, tested to UL1254",
+   "Detection: Loss of Pressure (LOP) automatic with manual actuation",
+   "Discharge time: 138 s to 408 s",
+   "Operating temperature: 0 to +80 C",
+   "Cylinder sizes: 15 L, 20 L and 23 L"
+  ],
+  "image": "musterfire/muster-misting-fire-suppression-system.webp",
+  "sourceUrl": "https://musterfire.com/misting-fire-suppression-system/"
+ },
+ {
+  "brand": "Muster Fire",
+  "brandKey": "musterfire",
+  "category": "Misting System",
+  "group": "Misting System",
+  "name": "Cylinders & Brackets",
+  "description": "Stainless steel agent cylinders with lightweight mild steel mounting brackets, built to withstand vibration, shock and harsh conditions. Available in vertical or lay-flat configurations for tight installations.",
+  "specs": [
+   "Cylinder material: stainless steel",
+   "Cylinder capacities: 15 L, 20 L and 23 L",
+   "Mounting: vertical or lay-flat"
+  ],
+  "image": "musterfire/cylinders-and-brackets.webp",
+  "sourceUrl": "https://musterfire.com/misting-fire-suppression-system/"
+ },
+ {
+  "brand": "Muster Fire",
+  "brandKey": "musterfire",
+  "category": "Misting System",
+  "group": "Misting System",
+  "name": "Indicator Panel",
+  "description": "Panel that continuously monitors system integrity and actuation pressure, detects fire activation and raises audible and visual alerts. Configurable for Loss of Pressure or Agent Discharge confirmation modes.",
+  "specs": [
+   "Monitoring: 24/7 via dual environmentally sealed pressure switches",
+   "Detection modes: Loss of Pressure confirmation or Agent Discharge confirmation",
+   "Output: customisable output relay"
+  ],
+  "image": "musterfire/indicator-panel.webp",
+  "sourceUrl": "https://musterfire.com/misting-fire-suppression-system/"
+ },
+ {
+  "brand": "Muster Fire",
+  "brandKey": "musterfire",
+  "category": "Misting System",
+  "group": "Misting System",
+  "name": "LOP Valve",
+  "description": "Cylinder valve machined from a single piece of billet stainless steel for reliable discharge performance. Full 360 degree orientation allows the cylinder to be positioned for easy access, installation and servicing.",
+  "specs": [
+   "Material: single-piece billet stainless steel",
+   "Orientation: full 360 degrees"
+  ],
+  "image": "musterfire/lop-valve.webp",
+  "sourceUrl": "https://musterfire.com/misting-fire-suppression-system/"
+ },
+ {
+  "brand": "Muster Fire",
+  "brandKey": "musterfire",
+  "category": "Misting System",
+  "group": "Misting System",
+  "name": "Misting Nozzles",
+  "description": "Precision stainless steel nozzles that produce fine water-foam droplets, creating a dense mist that absorbs heat and suppresses flames in confined spaces with minimal water usage.",
+  "specs": [
+   "Material: stainless steel",
+   "Discharge time: 138 s to 408 s"
+  ],
+  "image": "musterfire/misting-nozzles.webp",
+  "sourceUrl": "https://musterfire.com/misting-fire-suppression-system/"
+ },
+ {
+  "brand": "Muster Fire",
+  "brandKey": "musterfire",
+  "category": "Misting System",
+  "group": "Misting System",
+  "name": "Fluorine Free (F3) Fire Suppression Concentrate",
+  "description": "Fluorine-free foam concentrate that forms a vapour-sealing film over the fuel surface, cooling it and preventing re-ignition. Biodegradable, not bio-persistent, and effective on Class A and B fires.",
+  "specs": [
+   "Mix ratio: 1 part concentrate to 99 parts water",
+   "Fire classes: A and B",
+   "Chemistry: fluorine free, no PFAS-based chemicals",
+   "Supply: pre-sized concentrate bottle included with each kit"
+  ],
+  "image": "musterfire/fluorine-free-f3-fire-suppression-concentrate.webp",
+  "sourceUrl": "https://musterfire.com/misting-fire-suppression-system/"
+ },
+ {
+  "brand": "Muster Fire",
+  "brandKey": "musterfire",
+  "category": "Portable Extinguishers & Accessories",
+  "group": "Portable Extinguishers & Accessories",
+  "name": "Handheld Extinguishers",
+  "description": "Range of handheld portable extinguishers covering fires in paper, textiles, wood, plastics, rubber, petrol, oil, paints, LPG, CNG, acetylene and electrically charged equipment. Available in ABE powder, carbon dioxide, foam, air/water and wet chemical types.",
+  "specs": [
+   "Types: ABE Powder, Carbon Dioxide, Foam, Air/Water, Wet Chemical"
+  ],
+  "image": "musterfire/handheld-extinguishers.webp",
+  "sourceUrl": "https://musterfire.com/portable-fire-extinguishers-accessories/"
+ },
+ {
+  "brand": "Muster Fire",
+  "brandKey": "musterfire",
+  "category": "Portable Extinguishers & Accessories",
+  "group": "Portable Extinguishers & Accessories",
+  "name": "Automatic & Mobile Extinguishers",
+  "description": "Automatic extinguishers that activate at 79 degrees Celsius to protect unmanned fire risks, suitable for class A, B, C and E fires. Heavy duty trolley mounted options are available for mobile use.",
+  "specs": [
+   "Types: ABE Powder, BE Powder, Carbon Dioxide, Foam",
+   "Activation temperature: 79 degrees C",
+   "Fire classes: A, B, C, E"
+  ],
+  "image": "musterfire/automatic-and-mobile-extinguishers.webp",
+  "sourceUrl": "https://musterfire.com/portable-fire-extinguishers-accessories/"
+ },
+ {
+  "brand": "Muster Fire",
+  "brandKey": "musterfire",
+  "category": "Portable Extinguishers & Accessories",
+  "group": "Portable Extinguishers & Accessories",
+  "name": "Fire Blankets",
+  "description": "Made from woven fibreglass fire resistant fabric, certified to AS/NZS 3504. Supplied in a storage pouch with quick release tabs for easy mounting, backed by a one year warranty.",
+  "specs": [
+   "Material: Woven fibreglass fire resistant fabric",
+   "Certification: AS/NZS 3504",
+   "Warranty: 1 year"
+  ],
+  "image": "musterfire/fire-blankets.webp",
+  "sourceUrl": "https://musterfire.com/portable-fire-extinguishers-accessories/"
+ },
+ {
+  "brand": "Muster Fire",
+  "brandKey": "musterfire",
+  "category": "Portable Extinguishers & Accessories",
+  "group": "Portable Extinguishers & Accessories",
+  "name": "Location & Identification Signage",
+  "description": "Signage for quick identification of the correct extinguisher type, mounted above installed extinguishers. Helps locate equipment where direct line of sight is not possible.",
+  "specs": [],
+  "image": "musterfire/location-and-identification-signage.webp",
+  "sourceUrl": "https://musterfire.com/portable-fire-extinguishers-accessories/"
+ },
+ {
+  "brand": "Muster Fire",
+  "brandKey": "musterfire",
+  "category": "Portable Extinguishers & Accessories",
+  "group": "Portable Extinguishers & Accessories",
+  "name": "Fire Extinguisher Brackets",
+  "description": "Mounting brackets to suit multiple portable extinguishers, including strong quick release brackets for vehicles.",
+  "specs": [],
+  "image": "musterfire/fire-extinguisher-brackets.webp",
+  "sourceUrl": "https://musterfire.com/portable-fire-extinguishers-accessories/"
+ },
+ {
+  "brand": "Muster Fire",
+  "brandKey": "musterfire",
+  "category": "Portable Extinguishers & Accessories",
+  "group": "Portable Extinguishers & Accessories",
+  "name": "Portable Fire Equipment Accessories",
+  "description": "Accessories that support the servicing and protection of portable extinguishers, from UV bags to security ties and service tags.",
+  "specs": [],
+  "image": "musterfire/portable-fire-equipment-accessories.webp",
+  "sourceUrl": "https://musterfire.com/portable-fire-extinguishers-accessories/"
+ },
+ {
+  "brand": "Muster Fire",
+  "brandKey": "musterfire",
+  "category": "Solid Aerosol System (SAG)",
+  "group": "Solid Aerosol System (SAG)",
+  "name": "Muster Solid Aerosol Generator (SAG) System",
+  "description": "Self-generating fire suppression system for enclosed spaces. A solid chemical compound, activated electrically or thermally, releases a fine aerosol that interrupts the chemical chain reaction in the flame, discharging directly from the unit with no cylinders, pipework or nozzles.",
+  "specs": [
+   "Certification: AS5062 and AS4487",
+   "Shelf life: 10 years",
+   "Operational life: 5 to 10 years",
+   "Scalability: up to 8 SAG units per system via the integration module",
+   "Detection options: MusterWire rated 68 C, 105 C or 180 C"
+  ],
+  "image": "musterfire/muster-solid-aerosol-generator-sag-system.webp",
+  "sourceUrl": "https://musterfire.com/solid-aerosol-fire-suppression-system/"
+ },
+ {
+  "brand": "Muster Fire",
+  "brandKey": "musterfire",
+  "category": "Solid Aerosol System (SAG)",
+  "group": "Solid Aerosol System (SAG)",
+  "name": "SAG Units",
+  "description": "Self-generating aerosol canisters that hold the solid suppression compound and discharge directly from the unit. Supplied in a range of sizes and capacities to match different applications and protected volumes.",
+  "specs": [
+   "Shelf life: 10 years",
+   "Operational life: 5 to 10 years",
+   "Maintenance: minimal, no refilling required"
+  ],
+  "image": "musterfire/sag-units.webp",
+  "sourceUrl": "https://musterfire.com/solid-aerosol-fire-suppression-system/"
+ },
+ {
+  "brand": "Muster Fire",
+  "brandKey": "musterfire",
+  "category": "Controls & Accessories",
+  "group": "Controls & Accessories",
+  "name": "Control Panels",
+  "description": "A family of control panels for the Muster foam fire suppression system, providing a complete solution for control, monitoring and activation.",
+  "specs": [],
+  "image": "musterfire/control-panels.webp",
+  "sourceUrl": "https://musterfire.com/foam-based-fire-suppression-system/"
+ },
+ {
+  "brand": "Muster Fire",
+  "brandKey": "musterfire",
+  "category": "Controls & Accessories",
+  "group": "Controls & Accessories",
+  "name": "Remote Actuators",
+  "description": "Manual triggers that let the operator activate the suppression system at the first sign of a potential fire. Available in push-button or lever designs, made from stainless steel, and can sit near the protected enclosure or at a remote point.",
+  "specs": [
+   "Designs: push-button or lever",
+   "Material: stainless steel"
+  ],
+  "image": "musterfire/remote-actuators.webp",
+  "sourceUrl": "https://musterfire.com/impulse-powder-dry-chemical-fire-suppression/"
+ },
+ {
+  "brand": "Muster Fire",
+  "brandKey": "musterfire",
+  "category": "Controls & Accessories",
+  "group": "Controls & Accessories",
+  "name": "Diagnostics Module",
+  "description": "Add-on module that displays real time alarm panel parameters, system pressure, battery status and software update information. Technicians can access data logs through the Muster diagnostics utility app.",
+  "specs": [
+   "Data access: Muster diagnostics utility app"
+  ],
+  "image": "musterfire/diagnostics-module.webp",
+  "sourceUrl": "https://musterfire.com/impulse-powder-dry-chemical-fire-suppression/"
+ },
+ {
+  "brand": "Muster Fire",
+  "brandKey": "musterfire",
+  "category": "Controls & Accessories",
+  "group": "Controls & Accessories",
+  "name": "Remote Activation Device",
+  "description": "Remote trigger developed for autonomous vehicles, allowing crews to activate the fire suppression system from a distance when no operator is on board.",
+  "specs": [],
+  "image": null,
+  "sourceUrl": "https://musterfire.com/impulse-powder-dry-chemical-fire-suppression/"
+ },
+ {
+  "brand": "Muster Fire",
+  "brandKey": "musterfire",
+  "category": "Controls & Accessories",
+  "group": "Controls & Accessories",
+  "name": "Signal Test Unit",
+  "description": "Test unit that verifies the operational integrity of the fire suppression system so it is confirmed ready for use.",
+  "specs": [],
+  "image": "musterfire/signal-test-unit.webp",
+  "sourceUrl": "https://musterfire.com/foam-based-fire-suppression-system/"
+ },
+ {
+  "brand": "Muster Fire",
+  "brandKey": "musterfire",
+  "category": "Controls & Accessories",
+  "group": "Controls & Accessories",
+  "name": "Training Box",
+  "description": "Portable training tool for the Muster Alarm Panel. Users can simulate scenarios and work through the panel's features hands on.",
+  "specs": [],
+  "image": "musterfire/training-box.webp",
+  "sourceUrl": "https://musterfire.com/foam-based-fire-suppression-system/"
+ },
+ {
+  "brand": "Muster Fire",
+  "brandKey": "musterfire",
+  "category": "Controls & Accessories",
+  "group": "Controls & Accessories",
+  "name": "Muster 360 Cloud Portal",
+  "description": "Cloud portal used exclusively with Muster systems to run fire risk assessments, design the required system and capture commissioning records. It outputs an indicative layout and a full document pack including a bill of materials.",
+  "specs": [],
+  "image": "musterfire/muster-360-cloud-portal.webp",
+  "sourceUrl": "https://musterfire.com/foam-based-fire-suppression-system/"
+ },
+ {
+  "brand": "Muster Fire",
+  "brandKey": "musterfire",
+  "category": "Controls & Accessories",
+  "group": "Controls & Accessories",
+  "name": "Muster Alarm Panel (M2AP02)",
+  "description": "Integrated control panel that handles control, monitoring and activation of Muster fire suppression systems, with audible and visual alarms on fire detection or system fault. Works with both LOP pneumatic and LHD electrical detection installations.",
+  "specs": [
+   "Part number: M2AP02",
+   "Detection compatibility: LOP pneumatic and LHD electrical",
+   "Monitoring: 24/7 system integrity",
+   "Backup battery life: minimum 2 years",
+   "Data logging: time and date stamped events"
+  ],
+  "image": "musterfire/muster-alarm-panel-m2ap02.webp",
+  "sourceUrl": "https://musterfire.com/impulse-powder-dry-chemical-fire-suppression/"
+ },
+ {
+  "brand": "Muster Fire",
+  "brandKey": "musterfire",
+  "category": "Controls & Accessories",
+  "group": "Controls & Accessories",
+  "name": "Integration Module",
+  "description": "Links up to 8 canisters into a single supervised system, providing the communication path for monitoring and activation between the alarm panel and each unit. Also enables dual or triple agent configurations.",
+  "specs": [
+   "Capacity: up to 8 units per installation",
+   "Configurations: dual or triple agent"
+  ],
+  "image": "musterfire/integration-module.webp",
+  "sourceUrl": "https://musterfire.com/impulse-powder-dry-chemical-fire-suppression/"
+ },
+ {
+  "brand": "Muster Fire",
+  "brandKey": "musterfire",
+  "category": "Controls & Accessories",
+  "group": "Controls & Accessories",
+  "name": "Initiator Signal Test Unit (M2ISTU)",
+  "description": "Test device for the Muster SAG system that simulates SAG module activation signals and checks wiring. Runs on a replaceable lithium battery.",
+  "specs": [
+   "Part number: M2ISTU",
+   "Battery: replaceable lithium, minimum 2 years life"
+  ],
+  "image": null,
+  "sourceUrl": "https://musterfire.com/wp-content/uploads/2023/09/Muster-SAG-Product-Flyer.pdf"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Viscosifiers",
+  "group": "Viscosifiers",
+  "name": "Viscosifier SMD206",
+  "description": "SMD206 could improve core recovery, especially for shales, clays, and highly fractured formations. It provides cuttings encapsulation and stabilizes the formation.",
+  "specs": [],
+  "image": "sinomud/viscosifier-smd206.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/viscosifier-smd-206/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Viscosifiers",
+  "group": "Viscosifiers",
+  "name": "Drilling Polymer CHP ULTRA",
+  "description": "CHP ULTRA acts as a viscosifier, friction reducer, while also providing some fluid-loss control.",
+  "specs": [],
+  "image": "sinomud/drilling-polymer-chp-ultra.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/drilling-polymer-chp-ultra/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Viscosifiers",
+  "group": "Viscosifiers",
+  "name": "Drilling Polymer POLY XCD",
+  "description": "Drilling fluids Polyxcd is a premium quality biopolymer powder designed to provide maximum solids suspension and hole cleaning in vertical and highly deviated wells as well as horizontal directional drilling applications. POLYXCD is a distinctive product and able to produce a thixotropic shear thinning fluid.",
+  "specs": [],
+  "image": "sinomud/drilling-polymer-poly-xcd.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/drilling-fluids-polyxcd/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Viscosifiers",
+  "group": "Viscosifiers",
+  "name": "Viscosifier CX TROL",
+  "description": "Viscosifier CX TROL is a premium grade purified high viscosity, high molecular weight versatile blend of cellulosic and organic polymer, used as an effective viscosifier and reduce fluid loss to water-based drilling fluids.",
+  "specs": [],
+  "image": "sinomud/viscosifier-cx-trol.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/viscosifier-cx-trol/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Viscosifiers",
+  "group": "Viscosifiers",
+  "name": "Liquid Polymer SUPER POLY",
+  "description": "Super Poly is a new copolymer used primarily as a one sack polymer, providing borehole stabilizer, lubricity and viscosifier to prevent reactive shale and clay from swelling and sloughing.",
+  "specs": [],
+  "image": "sinomud/liquid-polymer-super-poly.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/super-poly-ez-mud-alternative/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Viscosifiers",
+  "group": "Viscosifiers",
+  "name": "Drilling Polymer CHP",
+  "description": "(powder form) is a readily dispersible polymer additive designed to provide shale stabilization in freshwater to saltwater drilling fluids ranging from low solids muds. CHP acts as a viscosifier, friction reducer, while also providing some fluid-loss control.",
+  "specs": [],
+  "image": "sinomud/drilling-polymer-chp.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/powder-polymer-chp/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Viscosifiers",
+  "group": "Viscosifiers",
+  "name": "HDD Premium Bentonite Super Gel",
+  "description": "Bentonite SUPER-GEL is a high-yield, 200 mesh sodium bentonite with a special dry polymer additive that mainly used in trenchless industry with very high viscosity.",
+  "specs": [],
+  "image": "sinomud/hdd-premium-bentonite-super-gel.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/hdd-premium-bentonite-super-gel/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Viscosifiers",
+  "group": "Viscosifiers",
+  "name": "Premium Bentonite CX GEL",
+  "description": "Premium Bentonite CX-GEL is a high yield premium-grade bentonite for diamond core drilling used as a primary filter-cake-building, filtration-control and suspension agent in freshwater systems, and has application in all water-base mud systems.",
+  "specs": [],
+  "image": "sinomud/premium-bentonite-cx-gel.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/premium-bentonite-cx-gel/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Viscosifiers",
+  "group": "Viscosifiers",
+  "name": "API GRADE BENTONITE CX-BEN",
+  "description": "CX-BEN is a API standard bentonite (a sodium montmorillonite caly) It is used as a primary filter-cake-building, filtration-control and suspension agent in freshwater systems, and has application in all water-base mud systems.",
+  "specs": [],
+  "image": "sinomud/api-grade-bentonite-cx-ben.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/api-grade-bentonite-cx-ben/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Drilling Polymers",
+  "group": "Drilling Polymers",
+  "name": "Drilling polymer VIS",
+  "description": "VIS is a premium grade purified high viscosity, high molecular weight polymer, used as an effective viscosifier and reduce fluid loss to water-based drilling fluids.",
+  "specs": [],
+  "image": "sinomud/drilling-polymer-vis.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/drilling-mud-additives-vis/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Drilling Polymers",
+  "group": "Drilling Polymers",
+  "name": "Drilling polymer CX BIOVIS",
+  "description": "BIO VIS is a premium quality biopolymer powder designed to provide maximum solids suspension and hole cleaning in vertical and highly deviated wells as well as horizontal directional drilling applications.",
+  "specs": [],
+  "image": "sinomud/drilling-polymer-cx-biovis.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/drilling-polymer-additive-cx-bio-vis/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Drilling Polymers",
+  "group": "Drilling Polymers",
+  "name": "Sand Cure",
+  "description": "Sand Cure is used for drilling, especially for loose sands, cobbles and gravels and improves bore hole stability in formations easy to collapse and shift.",
+  "specs": [],
+  "image": "sinomud/sand-cure.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/drilling-mud-additives-sand-cure/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Drilling Polymers",
+  "group": "Drilling Polymers",
+  "name": "Core Fix",
+  "description": "Acts as a viscosifier, friction reducer, while also providing some fluid-loss control.",
+  "specs": [],
+  "image": "sinomud/core-fix.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/drilling-mud-core-fix/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Drilling Polymers",
+  "group": "Drilling Polymers",
+  "name": "Liquid Polymeric LCM FT",
+  "description": "FT is a fast-acting, synthetic polymer-based lost circulation material. It designed to help seal off even the most severe loss zones in 30 minutes allowing the operator to return to normal drilling activities.",
+  "specs": [],
+  "image": "sinomud/liquid-polymeric-lcm-ft.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/lost-circulation-material-ft/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Drilling Polymers",
+  "group": "Drilling Polymers",
+  "name": "Anti Temperature and Salt Fluids Loss Control Agent HIPOLY",
+  "description": "HIPOLY is a synthetic polymer specifically designed for high-temperature and high-salinity environments. It can stand more than 240℃ (460℉).",
+  "specs": [],
+  "image": "sinomud/anti-temperature-and-salt-fluids-loss-control-agent-hipoly.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/fluids-loss-control-agent-hipoly/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Drilling Polymers",
+  "group": "Drilling Polymers",
+  "name": "Fluids Loss Control FIL",
+  "description": "Fluids Loss Control FIL is a premium grade purified low viscosity, water-soluble ploymer, designed to control fluid loss while causes minimal increase in viscosity in water-based drilling fluids.",
+  "specs": [],
+  "image": "sinomud/fluids-loss-control-fil.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/fluids-loss-control-fil/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Drilling Polymers",
+  "group": "Drilling Polymers",
+  "name": "Lost Circulation Material PLUG",
+  "description": "Lost Circulation Material PLUG is a water swellable but not water soluble, 100% crystalline synthetic polymer. Plug polymer absorbs hundreds of times its own weight in water.",
+  "specs": [],
+  "image": "sinomud/lost-circulation-material-plug.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/lost-circulation-material-plug/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Lost Circulation Materials",
+  "group": "Lost Circulation Materials",
+  "name": "Lost Circulation Material Bentonite Pellets",
+  "description": "Lost Circulation Material Bentonite Pellets are a highly compressed pellet made from premium sodium bentonite. It can achieve greater depths.",
+  "specs": [],
+  "image": "sinomud/lost-circulation-material-bentonite-pellets.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/lost-circulation-material-bentonite-pettets/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Lost Circulation Materials",
+  "group": "Lost Circulation Materials",
+  "name": "Lost Circulation Material SEAL",
+  "description": "SEAL is a special LCM, which is acid soluble mineral fiber. Due to its solubility in weak acids.",
+  "specs": [],
+  "image": "sinomud/lost-circulation-material-seal.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/lost-circulation-material-seal/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Weighting Materials",
+  "group": "Weighting Materials",
+  "name": "Barite Weighing Material",
+  "description": "Barite is precisely ground barium sulphate used to increase the density of both oil based and water based mud. It is a chemically inert powder which meets or exceeds the API specifications.",
+  "specs": [
+   "Appearance: White to tan powder",
+   "Density: 4.10 g/cm 3 Min",
+   "BaSO 4: 90% Min"
+  ],
+  "image": "sinomud/barite-weighing-material.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/barite-weighing-material/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Treating Chemicals",
+  "group": "Treating Chemicals",
+  "name": "Sodium Sulphite",
+  "description": "Helps effectively scavenge soluble oxygen from water-based drilling fluid systems.",
+  "specs": [],
+  "image": "sinomud/sodium-sulphite.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/sodium-sulphite/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Treating Chemicals",
+  "group": "Treating Chemicals",
+  "name": "Sodium Bicarbonate",
+  "description": "Commonly referred to as Bicarb, is used in water based fluids as a source of bicarbonate ions.",
+  "specs": [],
+  "image": "sinomud/sodium-bicarbonate.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/sodium-bicarbonate/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Treating Chemicals",
+  "group": "Treating Chemicals",
+  "name": "Soda Ash",
+  "description": "(Na2CO3) is the common name for sodium carbonate, which has a molar mass of 105.9888 g/mol (anhydrous).",
+  "specs": [],
+  "image": "sinomud/soda-ash.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/soda-ash/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Flocculants & Dispersants",
+  "group": "Flocculants & Dispersants",
+  "name": "Drilling Thinner CX-WELLCLEAN",
+  "description": "CX-WELLCLEAN is used in the development and clean up of water wells where bentonite-based mud has been used.",
+  "specs": [],
+  "image": "sinomud/drilling-thinner-cx-wellclean.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/drilling-thiner-cx-wellclean/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Flocculants & Dispersants",
+  "group": "Flocculants & Dispersants",
+  "name": "Liquid Thinner THN",
+  "description": "Liquid Thinner THN is a highly efficient and concentrated thinner to removes bentonite clays from the drillstring and reduce drilling fluids viscosity. THN immediately affects the rheology of most drilling fluids.",
+  "specs": [],
+  "image": "sinomud/liquid-thinner-thn.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/liquid-thinner-thn/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Grease",
+  "group": "Grease",
+  "name": "Lubricant TUBE LUBE",
+  "description": "Lubricant TUBE LUBE is an amber colored opaque paste lubricant which can be used in mining, drilling operations as Core Lubricant.",
+  "specs": [],
+  "image": "sinomud/lubricant-tube-lube.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/lubricant-tube-lube/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Grease",
+  "group": "Grease",
+  "name": "Copper Thread Grease",
+  "description": "Copper Thread Grease is recommended specifically for trenchless drilling operations but is also suitable as an anti-seize grease or lubricant in various applications where such a product is beneficial, for example very high temperatures, high loads or where corrosion, water ingress or sealing present problems.",
+  "specs": [],
+  "image": "sinomud/copper-thread-grease.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/copper-thread-grease/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Grease",
+  "group": "Grease",
+  "name": "Thread Grease",
+  "description": "Thread Grease is a special grease designed to provide protection against corrosion and metal to metal contact in diamond tip drill rods employed in rock drilling applications, particularly where high temperatures and high loads are encountered.",
+  "specs": [],
+  "image": "sinomud/thread-grease.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/thread-grease/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Grease",
+  "group": "Grease",
+  "name": "Rod Grease Extra Tacky",
+  "description": "Rod Grease Extra Tacky is a specially formulated tenacious barium-based grease recommended for use on rock, diamond drill rods and similar mining and industrial applications to reduce vibration and friction between the rod and casing or rock strata. it also provides a high level of oxidation, rust and water washout protection.",
+  "specs": [],
+  "image": "sinomud/rod-grease-extra-tacky.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/drilling-grease-rod-grease-extra-tacky/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Lubricants & Cutting Oils",
+  "group": "Lubricants & Cutting Oils",
+  "name": "Hammer Oil 320",
+  "description": "Hammer Oil 320 are premium quality lubricants formulated from a combination of high quality mineral base stocks.",
+  "specs": [],
+  "image": "sinomud/hammer-oil-320.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/lubricant-hammer-oil-320/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Lubricants & Cutting Oils",
+  "group": "Lubricants & Cutting Oils",
+  "name": "Cutting Lubricant CX CUT",
+  "description": "Drilling Lubricant CX CUT is a highly effective and environmentally acceptable lubricant blend with different surfactants used in fresh, sanity and hard water in mining drilling.",
+  "specs": [],
+  "image": "sinomud/cutting-lubricant-cx-cut.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/drilling-lubricant-cx-cut/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Lubricants & Cutting Oils",
+  "group": "Lubricants & Cutting Oils",
+  "name": "Drilling Detergent CX-DET",
+  "description": "Drilling mud detergent CX-DET is a concentrated blend of detergents which improves the drilling characteristics of low solids and water based mud.",
+  "specs": [],
+  "image": "sinomud/drilling-detergent-cx-det.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/drilling-detergent-cx-det/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Lubricants & Cutting Oils",
+  "group": "Lubricants & Cutting Oils",
+  "name": "Drill Lube",
+  "description": "LUBRICANT Drill Lube is a highly effective and environmentally acceptable ester-base lubricant which can reduce the torque and friction drag and bit/stabilizer balling in most water-base drilling fluids.",
+  "specs": [],
+  "image": "sinomud/drill-lube.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/lubricant-drill-lube/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Foaming Agents & Detergents",
+  "group": "Foaming Agents & Detergents",
+  "name": "Drilling Foam Foam Plus",
+  "description": "Foam PLUS is a upgraded concentrated premium anionic surfactants which has been formulated for use in the oil & gas, mineral and water well drilling engineering.",
+  "specs": [],
+  "image": "sinomud/drilling-foam-foam-plus.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/drilling-foam-foam-plus/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Cement & Grouting Additives",
+  "group": "Cement & Grouting Additives",
+  "name": "FOAM PLUG A&#038;B",
+  "description": "Foam Plug A&B is a two-component low density rigid foams which is a lost circulation material for plugging application.",
+  "specs": [],
+  "image": "sinomud/foam-plug-a-and-038-b.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/foam-plug-ab/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Cement & Grouting Additives",
+  "group": "Cement & Grouting Additives",
+  "name": "Cement",
+  "description": "Cement is a low temperature Sulfate Resisting Cement which is used for construction projects, also commonly used for foundation and grouts.",
+  "specs": [],
+  "image": "sinomud/cement.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/drilling-fluid-cement/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Cement & Grouting Additives",
+  "group": "Cement & Grouting Additives",
+  "name": "Gypsum",
+  "description": "Gypsum is a low strength gypsum based cement providing grouting with a predetermined set time. It can be used in many applications.",
+  "specs": [],
+  "image": "sinomud/gypsum.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/cementious-products-gypsum/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Mud Test Equipment",
+  "group": "Mud Test Equipment",
+  "name": "Mud Test Kit",
+  "description": "SINO MUD Mud Sand Content Set includes Marsh Funnel Viscometer, Sand Content Kit, Mud Balance.",
+  "specs": [],
+  "image": "sinomud/mud-test-kit.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/mud-test-equipment-mud-test-kit-mud-sand-content-set/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Mud Test Equipment",
+  "group": "Mud Test Equipment",
+  "name": "pH Test Paper",
+  "description": "The pH test paper can be used to test pH.",
+  "specs": [],
+  "image": "sinomud/ph-test-paper.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/ph-test-paper/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Mud Test Equipment",
+  "group": "Mud Test Equipment",
+  "name": "Six Speed Viscometer",
+  "description": "The six-speed rotary viscometer can be used to measure various parameters, plot the rheological curves according to the measured values for multi-points.",
+  "specs": [],
+  "image": "sinomud/six-speed-viscometer.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/six-speed-viscometer/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Mud Test Equipment",
+  "group": "Mud Test Equipment",
+  "name": "API Filter Press",
+  "description": "API Filter Press can measure fluid loss under certain pressure and in a period of time. It also can measure mud cake thickness.",
+  "specs": [],
+  "image": "sinomud/api-filter-press.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/api-filter-press/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Mud Test Equipment",
+  "group": "Mud Test Equipment",
+  "name": "Mud Balance",
+  "description": "Mud Balance is mainly used to measure the density of drilling fluids and other fluids.",
+  "specs": [],
+  "image": "sinomud/mud-balance.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/mud-balance/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Mud Test Equipment",
+  "group": "Mud Test Equipment",
+  "name": "Sand Content Kit",
+  "description": "Sand Content Kit is a simple and reliable apparatus for measuring sand content of drilling fluids effectively and accurately.",
+  "specs": [],
+  "image": "sinomud/sand-content-kit.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/sand-content-kit/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Mud Test Equipment",
+  "group": "Mud Test Equipment",
+  "name": "Marsh Funnel Viscometer",
+  "description": "Marsh funnel is an apparatus used to measure the viscosity of drilling fluids for daily. Adopting the API standard.",
+  "specs": [],
+  "image": "sinomud/marsh-funnel-viscometer.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/marsh-funnel-viscometer/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Mud Mixers",
+  "group": "Mud Mixers",
+  "name": "Mud Mixer",
+  "description": "The unit is used to make up drilling fluid, to change the density, viscosity, dehydration, acid-base property etc. It is suitable for drilling mud aggravation and preparation from 1,500 meters to 6,000 meters.",
+  "specs": [],
+  "image": "sinomud/mud-mixer.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/mud-mixer/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Core Trays",
+  "group": "Core Trays",
+  "name": "Core Trays",
+  "description": "The new core box is made of high-pressure injection molding of new synthetic plastics. Its performance in impact resistance, anti-aging, high temperature resistance and high cold resistance is significantly improved compared with ordinary core boxes.",
+  "specs": [],
+  "image": "sinomud/core-trays.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/core-tray-core-box/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Treating Chemicals",
+  "group": "Treating Chemicals",
+  "name": "Sodium Formate",
+  "description": "CAS NO.:141-53-7 FORMULA: CHNaO2 Sodium formate, by product of pentaerythritol, is white crystalline material.",
+  "specs": [
+   "NAME: SODIUM FORMATE 95%",
+   "CHEMICAL FORMULA: HCOONa",
+   "ITEMS: SPECIFICATIONS",
+   "APPEARANCE: WHITE CRYSTALLINE POWDER",
+   "PURITY % ≥: 95.0"
+  ],
+  "image": "sinomud/sodium-formate.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/sodium-formate/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Treating Chemicals",
+  "group": "Treating Chemicals",
+  "name": "Calcium Nitrate Granular",
+  "description": "The new core box is made of high-pressure injection molding of new synthetic plastics. Its performance in impact resistance, anti-aging, high temperature resistance and high cold resistance is significantly improved compared with ordinary core boxes.",
+  "specs": [],
+  "image": "sinomud/calcium-nitrate-granular.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/calcium-nitrate-granular/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Treating Chemicals",
+  "group": "Treating Chemicals",
+  "name": "Potassium Formate",
+  "description": "Potassium Formate is a product series of environmental friendly drilling fluid with high anti-pollution, high anti-temperature, high anti-pressure,.",
+  "specs": [],
+  "image": "sinomud/potassium-formate.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/potassium-formate-solid/"
+ },
+ {
+  "brand": "SinoMud",
+  "brandKey": "sinomud",
+  "category": "Treating Chemicals",
+  "group": "Treating Chemicals",
+  "name": "Citric Acid",
+  "description": "Citric Acid provides a method for reducing the alkalinity (pH) of water-based drilling fluids, usually resulting from cement contamination while drilling out cement.",
+  "specs": [
+   "Item: Specification",
+   "Appearance: Colorless or White Crystal",
+   "C 6 H 8 O 7 Content: 99.5% to100.5%",
+   "Moisture Content: 0.5% Max"
+  ],
+  "image": "sinomud/citric-acid.webp",
+  "sourceUrl": "https://www.sinomud.com/product-detail/citric-acid/"
+ }
+]

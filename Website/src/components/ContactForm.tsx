@@ -8,6 +8,7 @@ const ENDPOINT =
   import.meta.env.VITE_FORM_ENDPOINT ?? 'https://formspree.io/f/your-form-id'
 
 const SCOPES = [
+  'General enquiry',
   'Fire suppression',
   'Drilling rigs & tooling',
   'Drilling fluids',
@@ -15,10 +16,30 @@ const SCOPES = [
   'Other',
 ] as const
 
+// The catalogue's "Request a quote" links land here with ?product=&brand=.
+const SCOPE_BY_BRAND: Record<string, (typeof SCOPES)[number]> = {
+  'Muster Fire': 'Fire suppression',
+  'Son-Mak': 'Drilling rigs & tooling',
+  'JS Explo': 'Drilling rigs & tooling',
+  SinoMud: 'Drilling fluids',
+}
+
+function prefillFromUrl() {
+  const params = new URLSearchParams(window.location.search)
+  const product = params.get('product')
+  const brand = params.get('brand')
+  if (!product) return { scope: SCOPES[0], message: undefined }
+  return {
+    scope: (brand && SCOPE_BY_BRAND[brand]) || SCOPES[0],
+    message: `Quote request: ${product}${brand ? ` (${brand})` : ''}.\n\nQuantity, site location, timeline: `,
+  }
+}
+
 type Status = 'idle' | 'submitting' | 'success' | 'error'
 
 export default function ContactForm() {
   const [status, setStatus] = useState<Status>('idle')
+  const [prefill] = useState(prefillFromUrl)
 
   async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault()
@@ -63,7 +84,7 @@ export default function ContactForm() {
   }
 
   return (
-    <form className="cform" onSubmit={handleSubmit} noValidate>
+    <form className="cform" onSubmit={handleSubmit}>
       <input
         type="text"
         name="website"
@@ -92,7 +113,7 @@ export default function ContactForm() {
       </div>
       <label className="field">
         <span>Scope of work</span>
-        <select name="scope" defaultValue={SCOPES[0]}>
+        <select name="scope" defaultValue={prefill.scope}>
           {SCOPES.map((s) => (
             <option key={s} value={s}>
               {s}
@@ -105,6 +126,7 @@ export default function ContactForm() {
         <textarea
           name="message"
           rows={5}
+          defaultValue={prefill.message}
           placeholder="Equipment, quantities, site location, timeline…"
           required
         />

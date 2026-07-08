@@ -1,8 +1,8 @@
 import Logo from './Logo'
 
 const NAV = [
-  ['Brands', '/#brands'],
-  ['Products', '/products/'],
+  ['Partners', '/partners/'],
+  ['Catalogue', '/products/'],
   ['Contact', '/contact/'],
 ] as const
 

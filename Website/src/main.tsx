@@ -2,14 +2,16 @@ import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
 import Home from './pages/Home'
-import Products from './pages/Products'
+import Partners from './pages/Partners'
+import Catalogue from './pages/Catalogue'
 import Contact from './pages/Contact'
 
 // Static MPA: each route is a real HTML file (see vite.config.ts inputs).
 // All pages load this entry; the page component is chosen from the URL path.
 function resolvePage() {
   const path = window.location.pathname.replace(/index\.html$/, '')
-  if (path.startsWith('/products')) return Products
+  if (path.startsWith('/partners')) return Partners
+  if (path.startsWith('/products')) return Catalogue
   if (path.startsWith('/contact')) return Contact
   return Home
 }

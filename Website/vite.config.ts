@@ -10,6 +10,7 @@ export default defineConfig({
     rollupOptions: {
       input: {
         home: 'index.html',
+        partners: 'partners/index.html',
         products: 'products/index.html',
         contact: 'contact/index.html',
       },

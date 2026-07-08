@@ -1,0 +1,6 @@
+supplier_name,supplier_group,supplier_type,country,default_currency,tax_id,website,supplier_details
+Ansul Fire Protection Australia,Overseas,Company,Australia,AUD,,https://www.ansul.com,Fire suppression systems and extinguishers
+Sandvik Mining and Rock Solutions AU,Overseas,Company,Australia,AUD,,https://www.rocktechnology.sandvik,Drilling equipment and consumables
+MSA Safety Asia Pacific,Overseas,Company,Singapore,USD,,https://www.msasafety.com,PPE and safety equipment
+Hastings Deering PNG,Local PNG,Company,Papua New Guinea,PGK,,https://www.hastingsdeering.com.pg,Caterpillar parts and service - local supplier
+Weir Minerals Europe,Overseas,Company,United Kingdom,EUR,,https://www.global.weir,Warman slurry pump spares

@@ -1,0 +1,6 @@
+item_code,item_name,item_group,description,stock_uom,is_stock_item,has_serial_no,has_batch_no,valuation_rate,standard_rate,reorder_level,reorder_qty,reorder_warehouse,lead_time_days,safety_stock,custom_oem_part_number,custom_machine_compatibility
+FS-EXT-9KG-ABE,Fire Extinguisher 9kg ABE Dry Powder,Fire Suppression,9kg ABE dry chemical powder extinguisher with wall bracket,Nos,1,0,1,180,320,10,20,Port Moresby - Main,45,5,ANSUL-A9,
+DR-BIT-PDC-675,PDC Drill Bit 6-3/4 inch,Drilling Equipment,6-3/4 inch PDC drill bit 5-blade matrix body,Nos,1,1,0,4200,6800,2,4,Port Moresby - Main,60,1,SDVK-CT675,Sandvik DE710; Atlas Copco Diamec Smart 6
+SF-HELM-MSA-VG,MSA V-Gard Hard Hat White,Safety Equipment,MSA V-Gard cap style hard hat with Fas-Trac III suspension,Nos,1,0,0,45,85,50,100,Port Moresby - Main,30,20,MSA-475358,
+SP-FIL-CAT-1R0750,CAT 1R-0750 Fuel Filter,Critical Spare Parts,Caterpillar 1R-0750 advanced efficiency fuel filter,Nos,1,0,1,60,110,24,48,Port Moresby - Main,40,12,CAT-1R-0750,CAT 3406E; CAT C15; CAT C18
+SP-PMP-WAR-K380,Warman K380 Pump Impeller,Critical Spare Parts,Warman K380 slurry pump impeller high-chrome alloy,Nos,1,1,0,7500,12500,1,2,Port Moresby - Main,75,1,WEIR-K380-IMP,Warman AH 8/6; Warman AH 10/8

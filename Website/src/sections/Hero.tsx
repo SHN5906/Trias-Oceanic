@@ -1,3 +1,5 @@
+import heroPhoto from '../assets/photos/hero.webp'
+
 export default function Hero() {
   return (
     <section className="hero">
@@ -22,9 +24,13 @@ export default function Hero() {
         </div>
 
         <figure className="shot anim d3">
-          <div className="ph" role="img" aria-label="Image placeholder">
-            Image placeholder
-          </div>
+          <img
+            src={heroPhoto}
+            alt="Excavator loading a haul truck at an open-pit mine"
+            width="1000"
+            height="1500"
+            fetchPriority="high"
+          />
         </figure>
       </div>
     </section>

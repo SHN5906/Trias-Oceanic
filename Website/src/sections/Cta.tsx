@@ -11,7 +11,7 @@ export default function Cta() {
         </div>
         <div className="right">
           <a className="btn btn-copper" href="/contact/">
-            Contact us
+            Request a quote
           </a>
         </div>
       </div>
