@@ -544,6 +544,134 @@ header {
   color: var(--mute);
   line-height: 1.7;
 }
+/* Distribution map (contact) */
+.cpage-map {
+  margin-top: clamp(44px, 7vw, 72px);
+}
+.cpage-map .eyebrow {
+  margin-bottom: 14px;
+}
+.dmap {
+  margin: 0;
+}
+.dmap-frame {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 7;
+  min-height: 300px;
+  background: var(--mist);
+  border: 1px solid var(--line);
+  overflow: hidden;
+}
+@media (max-width: 640px) {
+  .dmap-frame {
+    aspect-ratio: 4 / 3;
+    min-height: 0;
+  }
+}
+/* .dmap-frame prefix beats maplibre's own `.maplibregl-map { position: relative }`,
+   whose stylesheet loads after this one (lazy chunk) */
+.dmap-canvas,
+.dmap-frame .maplibregl-map {
+  position: absolute;
+  inset: 0;
+}
+.dmap-ph {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--subtle);
+}
+/* Survey-point markers (square, like the .plist copper bullets) */
+.dmap-marker {
+  position: relative;
+  width: 0;
+  height: 0;
+  pointer-events: none;
+}
+.dmap-dot {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 9px;
+  height: 9px;
+  transform: translate(-50%, -50%);
+  background: var(--copper);
+  border: 1.5px solid var(--white);
+  box-shadow: 0 1px 4px rgba(19, 36, 31, 0.25);
+}
+.dmap-halo {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 26px;
+  height: 26px;
+  transform: translate(-50%, -50%);
+  border: 1px solid var(--copper);
+  opacity: 0.4;
+  animation: dmap-halo 2.8s ease-out infinite;
+}
+@keyframes dmap-halo {
+  0% {
+    transform: translate(-50%, -50%) scale(0.55);
+    opacity: 0.55;
+  }
+  70%,
+  100% {
+    transform: translate(-50%, -50%) scale(1.15);
+    opacity: 0;
+  }
+}
+.dmap-label {
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 1.4;
+  pointer-events: none;
+}
+.dmap-label.down {
+  transform: translate(-50%, 16px);
+}
+.dmap-label.up {
+  transform: translate(-50%, calc(-100% - 16px));
+}
+.dmap-label-t {
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: var(--ink);
+  text-shadow: 0 0 5px var(--white), 0 0 5px var(--white), 0 0 5px var(--white);
+}
+.dmap-label-s {
+  font-size: 9.5px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  color: var(--mute);
+  text-shadow: 0 0 5px var(--white), 0 0 5px var(--white), 0 0 5px var(--white);
+}
+.dmap-arrow {
+  width: 13px;
+  height: 15px;
+  background: var(--copper);
+  clip-path: polygon(50% 0, 100% 100%, 0 100%);
+  pointer-events: none;
+}
+@media (prefers-reduced-motion: reduce) {
+  .dmap-halo {
+    animation: none;
+    opacity: 0.35;
+  }
+}
+
 .cpage-back {
   margin-top: clamp(40px, 6vw, 64px);
 }

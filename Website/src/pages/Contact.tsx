@@ -1,6 +1,7 @@
 import Header from '../components/Header'
 import Footer from '../components/Footer'
 import ContactForm from '../components/ContactForm'
+import DistributionMap from '../components/DistributionMap'
 
 type Detail = { label: string; value: React.ReactNode; href?: string }
 
@@ -38,6 +39,10 @@ export default function Contact() {
             <div className="cpage-form anim d3">
               <ContactForm />
             </div>
+          </div>
+          <div className="wrap cpage-map anim d4">
+            <p className="eyebrow">Distribution</p>
+            <DistributionMap />
           </div>
           <div className="wrap cpage-back">
             <a className="backlink" href="/">
