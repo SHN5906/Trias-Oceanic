@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <>
       <Header />
-      <main id="top">
+      <main id="top" tabIndex={-1}>
         <Hero />
         <Brands />
         <Cta />

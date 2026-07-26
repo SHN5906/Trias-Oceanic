@@ -1,4 +1,7 @@
-import { useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
+import QuoteList from './QuoteList'
+import { type QuoteItem } from '../lib/quote'
+import { useQuote } from '../lib/useQuote'
 
 // Submission endpoint. Set VITE_FORM_ENDPOINT in .env:
 //   - now:   a Formspree form URL (https://formspree.io/f/xxxxxxxx)
@@ -16,7 +19,6 @@ const SCOPES = [
   'Other',
 ] as const
 
-// The catalogue's "Request a quote" links land here with ?product=&brand=.
 const SCOPE_BY_BRAND: Record<string, (typeof SCOPES)[number]> = {
   'Muster Fire': 'Fire suppression',
   'Son-Mak': 'Drilling rigs & tooling',
@@ -24,22 +26,44 @@ const SCOPE_BY_BRAND: Record<string, (typeof SCOPES)[number]> = {
   SinoMud: 'Drilling fluids',
 }
 
-function prefillFromUrl() {
+// Products now travel in the selection, so the prefilled message only carries
+// the context a quote needs.
+const MESSAGE_HINT = 'Quantity, site location, timeline: '
+
+// Older emails still link to /contact/?product=&brand=. Fold that product into
+// the selection rather than into the message body.
+function legacyItemFromUrl(): QuoteItem | null {
   const params = new URLSearchParams(window.location.search)
-  const product = params.get('product')
-  const brand = params.get('brand')
-  if (!product) return { scope: SCOPES[0], message: undefined }
-  return {
-    scope: (brand && SCOPE_BY_BRAND[brand]) || SCOPES[0],
-    message: `Quote request: ${product}${brand ? ` (${brand})` : ''}.\n\nQuantity, site location, timeline: `,
-  }
+  const name = params.get('product')
+  if (!name) return null
+  return { name, brand: params.get('brand') ?? 'Unspecified' }
+}
+
+// One brand in the basket picks its scope; a mixed basket stays generic.
+function scopeFor(items: QuoteItem[]): (typeof SCOPES)[number] {
+  const brands = [...new Set(items.map((i) => i.brand))]
+  return brands.length === 1 ? SCOPE_BY_BRAND[brands[0]] ?? SCOPES[0] : SCOPES[0]
 }
 
 type Status = 'idle' | 'submitting' | 'success' | 'error'
 
 export default function ContactForm() {
   const [status, setStatus] = useState<Status>('idle')
-  const [prefill] = useState(prefillFromUrl)
+  const legacy = useMemo(legacyItemFromUrl, [])
+  const { items, remove, clear } = useQuote(legacy)
+  // Read once: the select and textarea are uncontrolled, and later edits to the
+  // selection must not overwrite what the visitor has typed or chosen.
+  const [prefill] = useState(() => ({
+    scope: scopeFor(items),
+    message: items.length > 0 ? MESSAGE_HINT : undefined,
+  }))
+  const doneRef = useRef<HTMLDivElement>(null)
+
+  // Submitting swaps the form out for the confirmation, which would drop focus
+  // to <body>; move it onto the confirmation so keyboard users keep their place.
+  useEffect(() => {
+    if (status === 'success') doneRef.current?.focus()
+  }, [status])
 
   async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault()
@@ -56,6 +80,8 @@ export default function ContactForm() {
       if (res.ok) {
         setStatus('success')
         form.reset()
+        // The enquiry is in: the basket has served its purpose.
+        clear()
       } else {
         setStatus('error')
       }
@@ -66,8 +92,8 @@ export default function ContactForm() {
 
   if (status === 'success') {
     return (
-      <div className="cform-done" role="status">
-        <p className="eyebrow" style={{ color: 'var(--copper)' }}>
+      <div className="cform-done" role="status" ref={doneRef} tabIndex={-1}>
+        <p className="eyebrow" style={{ color: 'var(--copperdim)' }}>
           Message sent
         </p>
         <p className="lead">Thanks, we'll get back to you within one business day.</p>
@@ -93,6 +119,7 @@ export default function ContactForm() {
         aria-hidden="true"
         className="cform-hp"
       />
+      <QuoteList items={items} onRemove={remove} />
       <div className="cform-row">
         <label className="field">
           <span>Name *</span>

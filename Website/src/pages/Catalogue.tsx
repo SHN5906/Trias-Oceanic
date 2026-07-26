@@ -1,7 +1,10 @@
-import { Fragment, useEffect, useMemo, useRef, useState } from 'react'
+import { Fragment, memo, useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import Header from '../components/Header'
 import Footer from '../components/Footer'
 import Cta from '../sections/Cta'
+import QuoteBar from '../components/QuoteBar'
+import { quoteKey, type QuoteItem } from '../lib/quote'
+import { useQuote } from '../lib/useQuote'
 import { BRANDS, PRODUCTS, type BrandInfo, type BrandKey, type Product } from '../data/products'
 import logoMuster from '../assets/logos/muster.png'
 import logoSonmak from '../assets/logos/sonmak-black.png'
@@ -39,9 +42,9 @@ const slug = (s: string) =>
 
 const BRAND_NAME: Record<string, string> = Object.fromEntries(BRANDS.map((b) => [b.key, b.name]))
 
-// The contact form reads these params and pre-fills the enquiry.
-const quoteHref = (p: Product) =>
-  `/contact/?product=${encodeURIComponent(p.name)}&brand=${encodeURIComponent(BRAND_NAME[p.brand])}`
+// The selection stores display strings, so /contact/ renders it without pulling
+// in the catalogue. brand + name is unique across all products (see lib/quote).
+const toItem = (p: Product): QuoteItem => ({ brand: BRAND_NAME[p.brand], name: p.name })
 
 // Search haystacks, built once per session.
 const HAY = new Map(
@@ -100,7 +103,16 @@ function useEdgeFade<T extends HTMLElement>() {
   return { ref, fade }
 }
 
-function ProductCard({ p }: { p: Product }) {
+// memo + a boolean prop: adding one product must not re-render the other 241.
+const ProductCard = memo(function ProductCard({
+  p,
+  selected,
+  onToggle,
+}: {
+  p: Product
+  selected: boolean
+  onToggle: (p: Product) => void
+}) {
   const src = imgSrc(p.image)
   return (
     <li className="pcard">
@@ -128,35 +140,56 @@ function ProductCard({ p }: { p: Product }) {
             ))}
           </ul>
         )}
-        <a className="pcard-cta" href={quoteHref(p)}>
+        <button
+          type="button"
+          className={selected ? 'pcard-cta on' : 'pcard-cta'}
+          onClick={() => onToggle(p)}
+          aria-pressed={selected}
+        >
           <span>
-            Request a quote<span className="sr-only">{` for ${p.name}`}</span>
+            {selected ? 'Added' : 'Add to quote'}
+            <span className="sr-only">{` — ${p.name}`}</span>
           </span>
-          <svg width="12" height="9" viewBox="0 0 14 10" fill="none" aria-hidden="true">
-            <path
-              d="M1 5h12m-4-4 4 4-4 4"
-              stroke="currentColor"
-              strokeWidth="1.6"
-              strokeLinecap="round"
-              strokeLinejoin="round"
-            />
-          </svg>
-        </a>
+          {selected ? (
+            <svg width="12" height="9" viewBox="0 0 14 10" fill="none" aria-hidden="true">
+              <path
+                d="M1 5.2 4.9 9 13 1"
+                stroke="currentColor"
+                strokeWidth="1.8"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              />
+            </svg>
+          ) : (
+            <svg width="11" height="11" viewBox="0 0 12 12" fill="none" aria-hidden="true">
+              <path
+                d="M6 1v10M1 6h10"
+                stroke="currentColor"
+                strokeWidth="1.7"
+                strokeLinecap="round"
+              />
+            </svg>
+          )}
+        </button>
       </div>
     </li>
   )
-}
+})
 
 function BrandSection({
   brand,
   alt,
   filter,
   onFilter,
+  selectedKeys,
+  onToggle,
 }: {
   brand: BrandInfo
   alt: boolean
   filter: string | null
   onFilter: (group: string | null) => void
+  selectedKeys: Set<string>
+  onToggle: (p: Product) => void
 }) {
   const items = useMemo(() => PRODUCTS.filter((p) => p.brand === brand.key), [brand.key])
   const groups = useMemo(() => {
@@ -244,7 +277,12 @@ function BrandSection({
                 </li>
               )}
               {b.items.map((p, i) => (
-                <ProductCard key={`${p.category}-${p.name}-${i}`} p={p} />
+                <ProductCard
+                  key={`${p.category}-${p.name}-${i}`}
+                  p={p}
+                  selected={selectedKeys.has(quoteKey(toItem(p)))}
+                  onToggle={onToggle}
+                />
               ))}
             </Fragment>
           ))}
@@ -255,6 +293,9 @@ function BrandSection({
 }
 
 export default function Catalogue() {
+  const { items: quoteItems, keys: quoteKeys, toggle, remove, clear } = useQuote()
+  // Stable identity: ProductCard's memo() depends on this not changing.
+  const toggleProduct = useCallback((p: Product) => toggle(toItem(p)), [toggle])
   const [view, setViewState] = useState<View>(() => parseView())
   const [active, setActive] = useState<string>(BRANDS[0].key)
   const [filters, setFilters] = useState<Record<string, string | null>>(() => parseRangeParam())
@@ -412,7 +453,7 @@ export default function Catalogue() {
   return (
     <>
       <Header />
-      <main id="top">
+      <main id="top" tabIndex={-1}>
         <h1 className="sr-only">Product catalogue</h1>
 
         {!searching && view === 'choose' && (
@@ -558,7 +599,12 @@ export default function Catalogue() {
                         <span className="n">{items.length}</span>
                       </li>
                       {items.map((p, i) => (
-                        <ProductCard key={`${p.brand}-${p.name}-${i}`} p={p} />
+                        <ProductCard
+                          key={`${p.brand}-${p.name}-${i}`}
+                          p={p}
+                          selected={quoteKeys.has(quoteKey(toItem(p)))}
+                          onToggle={toggleProduct}
+                        />
                       ))}
                     </Fragment>
                   ))}
@@ -594,6 +640,8 @@ export default function Catalogue() {
               alt={i % 2 === 1}
               filter={filters[b.key] ?? null}
               onFilter={(g) => setFilter(b.key, g)}
+              selectedKeys={quoteKeys}
+              onToggle={toggleProduct}
             />
           ))
         ) : soloBrand ? (
@@ -602,11 +650,14 @@ export default function Catalogue() {
             alt={false}
             filter={filters[soloBrand.key] ?? null}
             onFilter={(g) => setFilter(soloBrand.key, g)}
+            selectedKeys={quoteKeys}
+            onToggle={toggleProduct}
           />
         ) : null}
 
         <Cta />
       </main>
+      <QuoteBar items={quoteItems} onRemove={remove} onClear={clear} />
       <Footer />
     </>
   )

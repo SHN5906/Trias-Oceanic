@@ -52,7 +52,7 @@ export default function Partners() {
   return (
     <>
       <Header />
-      <main id="top">
+      <main id="top" tabIndex={-1}>
         <section className="phead">
           <div className="wrap">
             <p className="eyebrow">Partners</p>

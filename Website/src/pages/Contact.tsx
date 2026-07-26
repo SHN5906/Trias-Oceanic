@@ -15,7 +15,7 @@ export default function Contact() {
   return (
     <>
       <Header />
-      <main id="top">
+      <main id="top" tabIndex={-1}>
         <section className="cpage">
           <div className="wrap cpage-grid">
             <div className="cpage-intro anim d2">

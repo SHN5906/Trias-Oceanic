@@ -6,7 +6,9 @@
   --white: #ffffff;
   --ink: #13241f;
   --mute: #4b5a54;
-  --subtle: #8a968f;
+  /* micro-labels: darkened from #8a968f, which sat at 3.07:1 on white and
+     2.77:1 on --mist (both below the WCAG AA 4.5:1 floor for small text) */
+  --subtle: #626c66;
   --line: #e2e7e4;
   --mist: #f1f4f3;
   --deep: #0f3d2e;
@@ -84,6 +86,30 @@ body {
   border-color: var(--ink);
 }
 
+/* Skip link: off-screen until keyboard focus, then pinned over the header */
+.skip {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  z-index: 30;
+  background: var(--copper);
+  color: #fff;
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  text-decoration: none;
+  padding: 12px 20px;
+}
+.skip:focus {
+  left: 0;
+}
+/* main is tabindex="-1" purely as the skip-link landing point: it is never
+   reached by Tab, so it should not paint a focus ring around the whole page */
+main:focus {
+  outline: none;
+}
+
 /* Header */
 header {
   position: sticky;
@@ -104,13 +130,6 @@ header {
   align-items: center;
   gap: 11px;
   text-decoration: none;
-}
-.brand .name {
-  font-weight: 800;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-  font-size: 19px;
-  color: var(--ink);
 }
 .logo-lockup {
   display: inline-flex;
@@ -197,68 +216,6 @@ header {
   object-fit: cover;
   display: block;
 }
-.shot .ph {
-  width: 100%;
-  min-height: 360px;
-  background: var(--mist);
-  border: 1px solid var(--line);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 11px;
-  font-weight: 600;
-  letter-spacing: 0.18em;
-  text-transform: uppercase;
-  color: var(--subtle);
-}
-
-/* What we do */
-.work {
-  background: var(--mist);
-  border-top: 1px solid var(--line);
-  border-bottom: 1px solid var(--line);
-  padding: clamp(48px, 7vw, 80px) 0;
-}
-.work h2 {
-  font-weight: 800;
-  text-transform: uppercase;
-  letter-spacing: 0.005em;
-  line-height: 1.08;
-  font-size: clamp(1.5rem, 3vw, 2.2rem);
-  color: var(--ink);
-  margin-top: 12px;
-}
-.grid4 {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 28px;
-  margin-top: 42px;
-}
-.item {
-  border-top: 2px solid var(--ink);
-}
-.item .no {
-  font-weight: 800;
-  font-size: 20px;
-  color: var(--copper);
-  margin-top: 14px;
-}
-.item h3 {
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.02em;
-  line-height: 1.15;
-  font-size: 16px;
-  color: var(--ink);
-  margin-top: 8px;
-}
-.item p {
-  font-size: 13.5px;
-  color: var(--mute);
-  margin-top: 8px;
-  line-height: 1.6;
-}
-
 /* Brands */
 .brands {
   padding: clamp(40px, 6vw, 64px) 0 clamp(48px, 7vw, 80px);
@@ -310,32 +267,12 @@ header {
   padding: 0 24px;
   border-bottom: 1px solid var(--line);
 }
-.plate .logo.dark {
-  background: var(--deep);
-  border-bottom-color: rgba(255, 255, 255, 0.12);
-}
 .plate .logo img {
   max-height: 58px;
   max-width: 84%;
   width: auto;
   object-fit: contain;
   display: block;
-}
-.plate .logo.photo {
-  padding: 0;
-}
-.plate .logo.photo img {
-  width: 100%;
-  height: 100%;
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: cover;
-}
-.plate .body .blogo {
-  height: 26px;
-  width: auto;
-  display: block;
-  margin-bottom: 6px;
 }
 .plate .body {
   padding: 22px 24px 26px;
@@ -461,7 +398,7 @@ header {
   transition: color 0.2s;
 }
 .contact-row dd a:hover {
-  color: var(--copper);
+  color: var(--copperdim);
 }
 
 /* Contact form (underline fields) */
@@ -537,6 +474,10 @@ header {
   margin-top: 14px;
   font-size: 13.5px;
   color: var(--copperdim);
+}
+/* focus target after a successful send, never reached by Tab (see ContactForm) */
+.cform-done:focus {
+  outline: none;
 }
 .cform-done .lead {
   margin-top: 14px;
@@ -688,7 +629,7 @@ header {
   transition: color 0.2s;
 }
 .backlink:hover {
-  color: var(--copper);
+  color: var(--copperdim);
 }
 .backlink svg {
   transition: transform 0.2s;
@@ -718,17 +659,6 @@ footer {
   justify-content: space-between;
   gap: 18px;
 }
-.foot .brand .name {
-  color: #fff;
-  font-size: 18px;
-}
-.foot .tag {
-  font-size: 11px;
-  font-weight: 600;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-  color: rgba(255, 255, 255, 0.5);
-}
 .foot .legal {
   font-size: 12px;
   font-weight: 500;
@@ -740,18 +670,11 @@ footer {
   .hero-grid {
     grid-template-columns: 1fr;
   }
-  .grid4 {
-    grid-template-columns: repeat(2, 1fr);
-    gap: 24px;
-  }
   .grid3 {
     grid-template-columns: repeat(2, 1fr);
   }
 }
 @media (max-width: 560px) {
-  .grid4 {
-    grid-template-columns: 1fr;
-  }
   .grid3 {
     grid-template-columns: 1fr;
   }
@@ -781,9 +704,13 @@ footer {
   color: var(--mute);
   text-decoration: none;
   transition: color 0.2s;
+  /* the 12px/1.65 line box alone is 20px tall: pad it past the 24px
+     minimum target of WCAG 2.2 SC 2.5.8 (the logo still sets bar height) */
+  padding: 4px 0;
 }
-.nav a:hover {
-  color: var(--copper);
+.nav a:hover,
+.nav a[aria-current='page'] {
+  color: var(--copperdim);
 }
 @media (max-width: 600px) {
   .bar {
@@ -971,7 +898,7 @@ body.pcat header {
   transition: color 0.2s;
 }
 .brandbar-top:hover {
-  color: var(--copper);
+  color: var(--copperdim);
 }
 .brandbar a.dim {
   opacity: 0.4;
@@ -1067,7 +994,7 @@ body.pcat header {
   border-bottom-color: var(--copper);
 }
 .brandbar a.on .n {
-  color: var(--copper);
+  color: var(--copperdim);
 }
 
 /* Brand showroom: full-viewport landing of the catalogue */
@@ -1148,7 +1075,7 @@ body.pcat header {
   transition: transform 0.2s;
 }
 .bpanel:hover .bpanel-cta {
-  color: var(--copper);
+  color: var(--copperdim);
 }
 .bpanel:hover .bpanel-cta svg {
   transform: translateX(4px);
@@ -1257,7 +1184,7 @@ body.pcat header {
   box-shadow: inset 0 -2px 0 var(--copper);
 }
 .chip.on span {
-  color: var(--copper);
+  color: var(--copperdim);
 }
 
 .pgrid {
@@ -1401,7 +1328,7 @@ body.pcat header {
   transition: transform 0.2s;
 }
 .pcard-cta:hover {
-  color: var(--copper);
+  color: var(--copperdim);
 }
 .pcard-cta:hover svg {
   transform: translateX(3px);
@@ -1488,5 +1415,190 @@ body.pcat header {
 @media (max-width: 400px) {
   .pgrid {
     grid-template-columns: 1fr;
+  }
+}
+
+/* Quote selection
+   ------------------------------------------------------------------ */
+
+/* card CTA, once the product is in the basket */
+.pcard-cta.on {
+  color: var(--copperdim);
+}
+
+/* Bottom action bar (catalogue). --qh is the collapsed row height, measured by
+   QuoteBar, so the page can clear the fixed bar at any viewport. */
+body.has-quote {
+  /* --qh measures the collapsed row only; +1px covers .qbar's top hairline,
+     which would otherwise clip the last pixel of the footer. */
+  padding-bottom: calc(var(--qh, 78px) + 1px);
+}
+.qbar {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 25;
+  background: var(--white);
+  border-top: 1px solid var(--ink);
+}
+.qbar-in {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  padding-top: 13px;
+  padding-bottom: 13px;
+}
+.qbar-toggle {
+  appearance: none;
+  background: none;
+  border: 0;
+  font-family: inherit;
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--ink);
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 6px 0;
+  cursor: pointer;
+  min-width: 0;
+}
+.qbar-count {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 23px;
+  height: 23px;
+  padding: 0 6px;
+  background: var(--copper);
+  color: #fff;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+.qbar-chev {
+  transition: transform 0.2s;
+}
+.qbar-chev.open {
+  transform: rotate(180deg);
+}
+.qbar-actions {
+  flex: none;
+  display: flex;
+  align-items: center;
+  gap: 18px;
+}
+.qbar-clear {
+  appearance: none;
+  background: none;
+  border: 0;
+  font-family: inherit;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--mute);
+  padding: 8px 2px;
+  cursor: pointer;
+  transition: color 0.2s;
+}
+.qbar-clear:hover {
+  color: var(--copperdim);
+}
+.qbar-list {
+  list-style: none;
+  margin: 0;
+  padding: 8px 0;
+  max-height: min(46vh, 320px);
+  overflow-y: auto;
+  border-bottom: 1px solid var(--line);
+}
+.qbar-list li,
+.qlist-items li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  padding: 9px 0;
+  border-top: 1px solid var(--line);
+}
+.qbar-list li:first-child,
+.qlist-items li:first-child {
+  border-top: 0;
+}
+.qbar-item,
+.qlist-item {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 4px 11px;
+  min-width: 0;
+}
+.qbar-item-n,
+.qlist-item-n {
+  font-size: 13.5px;
+  font-weight: 600;
+  line-height: 1.4;
+  color: var(--ink);
+}
+.qbar-item-b,
+.qlist-item-b {
+  font-size: 10.5px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--subtle);
+}
+.qbar-x,
+.qlist-x {
+  flex: none;
+  appearance: none;
+  background: none;
+  border: 1px solid var(--line);
+  color: var(--mute);
+  width: 26px;
+  height: 26px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: border-color 0.2s, color 0.2s;
+}
+.qbar-x:hover,
+.qlist-x:hover {
+  border-color: var(--copper);
+  color: var(--copperdim);
+}
+.qbar-toggle:focus-visible,
+.qbar-clear:focus-visible,
+.qbar-x:focus-visible,
+.qlist-x:focus-visible {
+  outline: 2px solid var(--copper);
+  outline-offset: 2px;
+}
+
+/* "Your selection" block, inside the contact form */
+.qlist {
+  border-top: 1px solid var(--ink);
+  padding-top: 14px;
+}
+.qlist-items {
+  list-style: none;
+  margin: 10px 0 0;
+  padding: 0;
+}
+
+@media (max-width: 600px) {
+  .qbar-in {
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  .qbar-actions {
+    width: 100%;
+    justify-content: space-between;
   }
 }
